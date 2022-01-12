@@ -7,4 +7,428 @@ uid: 653d64c8-ddb9-eccf-38be-70b1c01c8ea3
 ---
 The affiliations listed below were current as August 2015, when this course was taught; some affiliations will change over time.
 
-<table><tbody><tr><td colspan="2"><strong>Course Instructors</strong></td></tr><tr><td>Andrei Barbu</td><td>Postdoctoral Associate, Center for Brains, Minds and Machines, MIT</td></tr><tr><td>James DiCarlo</td><td>Department Head &amp; Peter de Florez Professor of Neuroscience, MIT Department of Brain and Cognitive Sciences</td></tr><tr><td>Winrich Freiwald</td><td>Associate Professor, Laboratory of Neural Systems, Rockefeller University; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Hynek&nbsp;Hermansky</td><td>Professor, Department of Electrical and Computer Engineering, and Director, Center for Language and Speech Processing, Johns Hopkins University</td></tr><tr><td>Leyla Isik</td><td>Postdoctoral Associate, Center for Brains, Minds and Machines, MIT</td></tr><tr><td>Nancy Kanwisher</td><td>Walter A. Rosenblith Professor of Cognitive Neuroscience, MIT Department of Brain and Cognitive Sciences; Research Thrust Leader, Center for Brains, Minds and Machines</td></tr><tr><td>Boris Katz</td><td>Principal Research Scientist, MIT Computer Science and Artificial Intelligence Laboratory; Co-Coordinator of Knowledge and Technology Transfer &amp; Research Thrust Co-Leader, Center for Brains, Minds and Machines</td></tr><tr><td>Gabriel Kreiman</td><td>Associate Professor, Departments of Ophthalmology &amp; Neurology, Harvard Medical School; Faculty Investigator, Children's Hospital, Center for Brain Science, Swartz Center for Theoretical Neuroscience, and Mind, Brain and Behavior Initiative, Harvard University; Research Thrust Leader, Center for Brains, Minds and Machines</td></tr><tr><td>John Leonard</td><td>Associate Department Head &amp; Samuel C. Collins Professor, MIT Department of Mechanical and Ocean Engineering</td></tr><tr><td>Alia Martin</td><td>Postdoctoral Associate, Center for Brains, Minds and Machines, Harvard University</td></tr><tr><td>Josh McDermott</td><td>Fred and Carol Middleton Career Development Assistant Professor, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Giorgio Metta</td><td>Vice Scientific Director and Director of the iCub Facility Department, Italian Institute of Technology; International Partner, Center for Brains, Minds and Machines</td></tr><tr><td>Ethan Meyers</td><td>Assistant Professor of Statistics, Hampshire College; Research Affiliate, Center for Brains, Minds and Machines</td></tr><tr><td>Ken Nakayama</td><td>Edgar Pierce Professor of Psychology, Harvard University; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Aude Oliva</td><td>Principal Research Scientist, MIT Computer Science and Artificial Intelligence Lab</td></tr><tr><td>Tomaso Poggio</td><td>Eugene McDermott Professor in the Brain Sciences, MIT Department of Brain and Cognitive Sciences; Director, Center for Brains, Minds and Machines</td></tr><tr><td>Tony Prescott</td><td>Professor of Cognitive Neuroscience, University of Sheffield; Director, Sheffield Robotics Center</td></tr><tr><td>Lorenzo Rosasco</td><td>Assistant Professor, University of Genova; Visiting Assistant Professor, MIT Department of Brain and Cognitive Sciences; Team Leader, Italian Institute of Technology; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Rebecca Saxe</td><td>Professor of Cognitive Science, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Laura Schulz</td><td>Associate Professor of Cognitive Science, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Haim&nbsp;Sompolinsky</td><td>William N. Skirball Professor of Neuroscience, Edmond and Lily Safra Center for Brain Sciences, Hebrew University; Investigator, Center for Brain Science, Harvard University; Faculty Investigator, Center for Brains, Minds and Machines</td></tr><tr><td>Liz Spelke</td><td>Professor, Department of Psychology, Harvard; Director, Laboratory for Developmental Studies, Harvard University; Associate Director, Center for Brains, Minds and Machines</td></tr><tr><td>Russ Tedrake</td><td>Professor, MIT Departments of Electrical Engineering and Computer Science, Aeronautics and Astronautics, and Mechanical Engineering; Director, Center for Robotics, MIT Computer Science and Artificial Intelligence Lab &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// return `&lt;td&gt;${converter.makeHtml(contents)}&lt;/td&gt;`</td></tr><tr><td>Stefanie Tellex</td><td>Assistant Professor, Department of Computer Science, Brown University</td></tr><tr><td>Josh Tenenbaum</td><td>Professor of Computational Cognitive Science, MIT Department of Brain and Cognitive Sciences; Research Thrust Leader, Center for Brains, Minds and Machines</td></tr><tr><td>Shimon Ullman</td><td>Samy and Ruth Cohn Professor of Computer Science, Computer Science and Applied Mathematics, Weizmann Institute of Science; Adjunct Professor, MIT Department of Brain and Cognitive Sciences; Research Thrust Co-Leader, Center for Brains, Minds, and Machines</td></tr><tr><td>Tomer Ullman</td><td>Postdoctoral Associate, Center for Brains, Minds and Machines, MIT</td></tr><tr><td>Matt Wilson</td><td>Sherman Fairchild Professor of Neuroscience and Picower Scholar, MIT Department of Brain and Cognitive Sciences; Associate Director, Center for Brains, Minds and Machines</td></tr><tr><td>Patrick Winston</td><td>Ford Professor of Artificial Intelligence and Computer Science, MIT Department of Electrical Engineering and Computer Science; Coordinator for Research, Center for Brains, Minds and Machines</td></tr><tr><td>Dan Yamins</td><td>Postdoctoral Associate, MIT Department of Brain and Cognitive Sciences &amp; McGovern Institute</td></tr><tr><td colspan="2"><strong>Guest Speakers</strong></td></tr><tr><td>Larry Abbott</td><td>William Bloor Professor of Theoretical Neuroscience &amp; Director, Center for Theoretical Neurobiology, Columbia University</td></tr><tr><td>Surya Ganguli</td><td>Assistant Professor, Departments of Applied Physics, Neurobiology, and Electrical Engineering, Stanford University</td></tr><tr><td>Tom Mitchell</td><td>E. Fredkin University Professor, Machine Learning Department, School of Computer Science, Carnegie Mellon University</td></tr><tr><td>Amnon Shashua</td><td>Co-Founder and Chairman, Orcam; Co-Founder, CTO and Chairman, Mobileye; Professor of Computer Science, Hebrew University; International and Industrial Partner, Center for Brains, Minds and Machines</td></tr><tr><td>Eero Simoncelli</td><td>Professor, Departments of Neural Science, Mathematics, and Psychology, New York University; Investigator, Howard Hughes Medical Institute</td></tr><tr><td>Jessica&nbsp;Sommerville</td><td>Associate Professor, Department of Psychology &amp; Associate Director, Foundations for Social, Emotional, and Cognitive Competence, Center for Child and Family Well-Being, University of Washington</td></tr><tr><td colspan="2"><strong>iCub Team</strong></td></tr><tr><td>Raffaello&nbsp;Camoriano</td><td>PhD Fellow, Italian Institute of Technology</td></tr><tr><td>Carlo Ciliberto</td><td>Postdoctoral Associate, Italian Institute of Technology</td></tr><tr><td>Giulia Pasquale</td><td>PhD Fellow, Italian Institute of Technology</td></tr><tr><td>Alessandro Roncone</td><td>Postdoctoral Associate, Italian Institute of Technology</td></tr><tr><td colspan="2"><strong>Other Contributors</strong></td></tr><tr><td>Ellen Hildreth</td><td>Coordinator of Summer Course materials and OCW content development&nbsp;<br>Professor, Department of Computer Science, Wellesley College</td></tr><tr><td>Daniel Zysman</td><td>MATLAB® tutorial content development and instructor&nbsp;<br>Computational Course Instructor, MIT Department of Brain and Cognitive Sciences; Education Affiliate, Center for Brains, Minds and Machines</td></tr><tr><td rowspan="2">rowspan test</td><td>row 1</td></tr><tr><td>row 2</td></tr></tbody></table>
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Course Instructors**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrei Barbu
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Center for Brains, Minds and Machines, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+James DiCarlo
+{{< tdclose >}}
+{{< tdopen >}}
+Department Head & Peter de Florez Professor of Neuroscience, MIT Department of Brain and Cognitive Sciences
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Winrich Freiwald
+{{< tdclose >}}
+{{< tdopen >}}
+Associate Professor, Laboratory of Neural Systems, Rockefeller University; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hynek Hermansky
+{{< tdclose >}}
+{{< tdopen >}}
+Professor, Department of Electrical and Computer Engineering, and Director, Center for Language and Speech Processing, Johns Hopkins University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Leyla Isik
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Center for Brains, Minds and Machines, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nancy Kanwisher
+{{< tdclose >}}
+{{< tdopen >}}
+Walter A. Rosenblith Professor of Cognitive Neuroscience, MIT Department of Brain and Cognitive Sciences; Research Thrust Leader, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Boris Katz
+{{< tdclose >}}
+{{< tdopen >}}
+Principal Research Scientist, MIT Computer Science and Artificial Intelligence Laboratory; Co-Coordinator of Knowledge and Technology Transfer & Research Thrust Co-Leader, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Gabriel Kreiman
+{{< tdclose >}}
+{{< tdopen >}}
+Associate Professor, Departments of Ophthalmology & Neurology, Harvard Medical School; Faculty Investigator, Children's Hospital, Center for Brain Science, Swartz Center for Theoretical Neuroscience, and Mind, Brain and Behavior Initiative, Harvard University; Research Thrust Leader, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+John Leonard
+{{< tdclose >}}
+{{< tdopen >}}
+Associate Department Head & Samuel C. Collins Professor, MIT Department of Mechanical and Ocean Engineering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alia Martin
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Center for Brains, Minds and Machines, Harvard University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Josh McDermott
+{{< tdclose >}}
+{{< tdopen >}}
+Fred and Carol Middleton Career Development Assistant Professor, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Giorgio Metta
+{{< tdclose >}}
+{{< tdopen >}}
+Vice Scientific Director and Director of the iCub Facility Department, Italian Institute of Technology; International Partner, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ethan Meyers
+{{< tdclose >}}
+{{< tdopen >}}
+Assistant Professor of Statistics, Hampshire College; Research Affiliate, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ken Nakayama
+{{< tdclose >}}
+{{< tdopen >}}
+Edgar Pierce Professor of Psychology, Harvard University; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Aude Oliva
+{{< tdclose >}}
+{{< tdopen >}}
+Principal Research Scientist, MIT Computer Science and Artificial Intelligence Lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tomaso Poggio
+{{< tdclose >}}
+{{< tdopen >}}
+Eugene McDermott Professor in the Brain Sciences, MIT Department of Brain and Cognitive Sciences; Director, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tony Prescott
+{{< tdclose >}}
+{{< tdopen >}}
+Professor of Cognitive Neuroscience, University of Sheffield; Director, Sheffield Robotics Center
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lorenzo Rosasco
+{{< tdclose >}}
+{{< tdopen >}}
+Assistant Professor, University of Genova; Visiting Assistant Professor, MIT Department of Brain and Cognitive Sciences; Team Leader, Italian Institute of Technology; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rebecca Saxe
+{{< tdclose >}}
+{{< tdopen >}}
+Professor of Cognitive Science, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laura Schulz
+{{< tdclose >}}
+{{< tdopen >}}
+Associate Professor of Cognitive Science, MIT Department of Brain and Cognitive Sciences; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Haim Sompolinsky
+{{< tdclose >}}
+{{< tdopen >}}
+William N. Skirball Professor of Neuroscience, Edmond and Lily Safra Center for Brain Sciences, Hebrew University; Investigator, Center for Brain Science, Harvard University; Faculty Investigator, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Liz Spelke
+{{< tdclose >}}
+{{< tdopen >}}
+Professor, Department of Psychology, Harvard; Director, Laboratory for Developmental Studies, Harvard University; Associate Director, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Russ Tedrake
+{{< tdclose >}}
+{{< tdopen >}}
+Professor, MIT Departments of Electrical Engineering and Computer Science, Aeronautics and Astronautics, and Mechanical Engineering; Director, Center for Robotics, MIT Computer Science and Artificial Intelligence Lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Stefanie Tellex
+{{< tdclose >}}
+{{< tdopen >}}
+Assistant Professor, Department of Computer Science, Brown University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Josh Tenenbaum
+{{< tdclose >}}
+{{< tdopen >}}
+Professor of Computational Cognitive Science, MIT Department of Brain and Cognitive Sciences; Research Thrust Leader, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shimon Ullman
+{{< tdclose >}}
+{{< tdopen >}}
+Samy and Ruth Cohn Professor of Computer Science, Computer Science and Applied Mathematics, Weizmann Institute of Science; Adjunct Professor, MIT Department of Brain and Cognitive Sciences; Research Thrust Co-Leader, Center for Brains, Minds, and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tomer Ullman
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Center for Brains, Minds and Machines, MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Matt Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+Sherman Fairchild Professor of Neuroscience and Picower Scholar, MIT Department of Brain and Cognitive Sciences; Associate Director, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Patrick Winston
+{{< tdclose >}}
+{{< tdopen >}}
+Ford Professor of Artificial Intelligence and Computer Science, MIT Department of Electrical Engineering and Computer Science; Coordinator for Research, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dan Yamins
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, MIT Department of Brain and Cognitive Sciences & McGovern Institute
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Guest Speakers**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Larry Abbott
+{{< tdclose >}}
+{{< tdopen >}}
+William Bloor Professor of Theoretical Neuroscience & Director, Center for Theoretical Neurobiology, Columbia University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Surya Ganguli
+{{< tdclose >}}
+{{< tdopen >}}
+Assistant Professor, Departments of Applied Physics, Neurobiology, and Electrical Engineering, Stanford University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tom Mitchell
+{{< tdclose >}}
+{{< tdopen >}}
+E. Fredkin University Professor, Machine Learning Department, School of Computer Science, Carnegie Mellon University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Amnon Shashua
+{{< tdclose >}}
+{{< tdopen >}}
+Co-Founder and Chairman, Orcam; Co-Founder, CTO and Chairman, Mobileye; Professor of Computer Science, Hebrew University; International and Industrial Partner, Center for Brains, Minds and Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eero Simoncelli
+{{< tdclose >}}
+{{< tdopen >}}
+Professor, Departments of Neural Science, Mathematics, and Psychology, New York University; Investigator, Howard Hughes Medical Institute
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jessica Sommerville
+{{< tdclose >}}
+{{< tdopen >}}
+Associate Professor, Department of Psychology & Associate Director, Foundations for Social, Emotional, and Cognitive Competence, Center for Child and Family Well-Being, University of Washington
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**iCub Team**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Raffaello Camoriano
+{{< tdclose >}}
+{{< tdopen >}}
+PhD Fellow, Italian Institute of Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carlo Ciliberto
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Italian Institute of Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Giulia Pasquale
+{{< tdclose >}}
+{{< tdopen >}}
+PhD Fellow, Italian Institute of Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alessandro Roncone
+{{< tdclose >}}
+{{< tdopen >}}
+Postdoctoral Associate, Italian Institute of Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Other Contributors**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Ellen Hildreth
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Coordinator of Summer Course materials and OCW content development
+
+Professor, Department of Computer Science, Wellesley College
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Daniel Zysman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MATLAB® tutorial content development and instructor
+
+Computational Course Instructor, MIT Department of Brain and Cognitive Sciences; Education Affiliate, Center for Brains, Minds and Machines
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
