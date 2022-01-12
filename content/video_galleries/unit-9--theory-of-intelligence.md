@@ -15,9 +15,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram showing a model of how objects within a street scene are associated with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally "AIT."]({{< resource_file ea34d43d-037f-bd1b-ec4d-c20f3e97567e >}})

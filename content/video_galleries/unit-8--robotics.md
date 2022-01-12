@@ -19,9 +19,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Photo of a mobile robot  with long "whiskers" protruding to the sides, brushing the whiskers on a person's hand.]({{< resource_file 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}})

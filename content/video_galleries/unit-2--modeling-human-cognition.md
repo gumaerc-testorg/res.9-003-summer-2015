@@ -15,9 +15,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and unstable tower of blocks.]({{< resource_file a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}})

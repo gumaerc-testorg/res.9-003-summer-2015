@@ -17,9 +17,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![A 3x3 grid of photos: top row "memorable" includes a giant inflatable gorilla; middle row "average" includes a grocery store produce section; bottom "forgettable" includes generic landscapes.]({{< resource_file b44faeaf-035b-c4fc-1c98-f93e902f29ed >}})

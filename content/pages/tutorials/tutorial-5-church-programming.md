@@ -16,9 +16,6 @@ Tutorial Overview
 -----------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and collapsing unstable tower of blocks.]({{< resource_file 20b84384-fbe1-fff3-7d7e-31991157e720 >}})

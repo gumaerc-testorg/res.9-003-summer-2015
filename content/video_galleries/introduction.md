@@ -13,9 +13,6 @@ Overview
 --------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Logo of Center for Brains, Minds, and Machines, consisting of 3 overlapping patterned circles.]({{< resource_file e6684472-0ae1-8398-0367-5ee0ae8061af >}})

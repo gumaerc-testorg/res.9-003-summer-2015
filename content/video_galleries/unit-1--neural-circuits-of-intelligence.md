@@ -20,9 +20,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram of primate brain with colored patches highlighting regions associated with different facial orientations.]({{< resource_file cf903a5c-b45b-6b69-103a-fc1c623af95f >}})

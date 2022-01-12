@@ -16,9 +16,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram of the human brain, with 5 subregions highlighted along the temporal lobe.]({{< resource_file 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}})

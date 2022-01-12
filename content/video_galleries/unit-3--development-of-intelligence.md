@@ -19,9 +19,6 @@ Unit Overview
 -------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Photo of a young boy building a tower out of wooden blocks.]({{< resource_file 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}})
