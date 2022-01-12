@@ -15,9 +15,6 @@ Tutorial Overview
 -----------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Diagram of human brain with two arrows emerging from the rear (occipital lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal stream goes toward the top of the brain.]({{< resource_file 7d776bec-a5cd-978c-d8d5-d36f13eb9597 >}})

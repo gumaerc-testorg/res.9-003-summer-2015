@@ -25,9 +25,6 @@ D = Debate
 See the [Instructors]({{< baseurl >}}/pages/syllabus/course-instructors-guest-speakers-and-icub-team) page for a list of each instructor's institutional and department affiliation.
 
 {{< tableopen >}}
-{{< captionopen >}}
-Course instructors and topics.
-{{< captionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}
@@ -44,7 +41,7 @@ TOPICS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Introduction**
 {{< tdclose >}}
 
@@ -62,7 +59,7 @@ Introduction to the study of intelligence in brains, minds and machines
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 1. Neural Circuits of Intelligence**
 {{< tdclose >}}
 
@@ -164,7 +161,7 @@ A mind in the fly brain
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 2. Modeling Human Cognition**
 {{< tdclose >}}
 
@@ -206,7 +203,7 @@ Computational cognitive science: Generative models, probabilistic programs, and 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 3. Development of Intelligence**
 {{< tdclose >}}
 
@@ -296,7 +293,7 @@ Debate: Theories, imagination, and the generation of ideas
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 4. Visual Intelligence**
 {{< tdclose >}}
 
@@ -362,7 +359,7 @@ Computer vision, wearable computing, and the future of transportation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 5. Vision and Language**
 {{< tdclose >}}
 
@@ -416,7 +413,7 @@ Neural representations of language meaning
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 6. Social Intelligence**
 {{< tdclose >}}
 
@@ -470,7 +467,7 @@ MVPA: Opening a new window on the mind via fMRI (Part 2)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 7. Audition and Speech**
 {{< tdclose >}}
 
@@ -548,7 +545,7 @@ Similarities and differences between hearing and vision, with Alex Kell (moderat
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 8. Robotics**
 {{< tdclose >}}
 
@@ -647,7 +644,7 @@ Future research directions in robotics and motor control in biological systems, 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Unit 9. Theory of Intelligence**
 {{< tdclose >}}
 
@@ -689,7 +686,7 @@ Sensory representations in cortex-like deep architectures
 
 {{< trclose >}}
 {{< tropen >}}
-{{< td-colspan 3 >}}
+{{< tdopen colspan="3" >}}
 **Background Tutorials**
 {{< tdclose >}}
 

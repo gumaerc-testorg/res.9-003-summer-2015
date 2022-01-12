@@ -10,9 +10,6 @@ Tutorial Overview
 -----------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Course Introductory tutorial
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Sequence of four images of a coin, with progressively less detail and resolution.](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/tutor2.jpg)
@@ -43,9 +40,6 @@ NOTE: There are no videos for this tutorial.
 *   The tutorial document below, which was originally prepared by Mark Goldman (UC Davis) and extended by Daniel Zysman (MIT), provides an introduction to aspects of MATLAB that are used in the programming exercises provided in this tutorial.
 
 {{< tableopen >}}
-{{< captionopen >}}
-Matlab tutorial.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 [MATLAB: Goldman / Zysman Introductory Tutorial (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_tut2.pdf)
@@ -71,9 +65,6 @@ Some additional resources for learning MATLAB are listed in the section on _Futu
 The table below provides descriptions of programming exercises, supporting code and data files, and solution code. They were prepared by Daniel Zysman and Ellen Hildreth, based on some material from the 2014 summer course originally developed by Emily Mackevicius.
 
 {{< tableopen >}}
-{{< captionopen >}}
-Course exercises slotuions.
-{{< captionclose >}}
 {{< theadopen >}}
 {{< tropen >}}
 {{< thopen >}}

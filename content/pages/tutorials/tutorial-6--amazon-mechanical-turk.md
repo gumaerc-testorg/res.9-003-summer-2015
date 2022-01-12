@@ -15,9 +15,6 @@ Tutorial Overview
 -----------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Graphic of three people's heads in different colors.]({{< resource_file 2f896fc9-5689-288c-eb18-e22964408dd4 >}})

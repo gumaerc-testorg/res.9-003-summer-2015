@@ -15,9 +15,6 @@ Tutorial Overview
 -----------------
 
 {{< tableopen >}}
-{{< captionopen >}}
-Images.
-{{< captionclose >}}
 {{< tropen >}}
 {{< tdopen >}}
 ![Plot of true classes vs. predicted classes, with a band of highest value proceeding from upper left to lower right.]({{< resource_file 930de496-ac6e-6629-9da3-9f86ce7dde29 >}})
