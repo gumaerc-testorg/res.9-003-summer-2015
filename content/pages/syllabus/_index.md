@@ -55,4 +55,4 @@ We would like to thank Ellen Hildreth for adapting materials from the Brains, Mi
 
 ## Test Table
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}} {{< thclose >}}{{< thopen >}} {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}1{{< thclose >}}{{< thopen >}}2{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}3{{< tdclose >}}{{< tdopen >}}4{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
