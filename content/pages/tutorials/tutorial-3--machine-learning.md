@@ -51,7 +51,7 @@ This [website for the Machine Learning Day](https://cbmm.mit.edu/machine-learnin
 Further Study
 -------------
 
-This tutorial is based in part on the MIT course [_9.520 Statistical Learning Theory and Applications_](http://www.mit.edu/~9.520/fall16/). Materials from the MIT course [_6.867 Machine Learning_](./resolveuid/ade08b4466bfc34807c49ca4f3d2be87), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through [edX](https://www.edx.org/) (search for "machine learning").
+This tutorial is based in part on the MIT course [_9.520 Statistical Learning Theory and Applications_](http://www.mit.edu/~9.520/fall16/). Materials from the MIT course [_6.867 Machine Learning_](/courses/6-867-machine-learning-fall-2006/), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through [edX](https://www.edx.org/) (search for "machine learning").
 
 Bishop, C. M. [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Springer, 2007. ISBN: 9780387310732.
 
