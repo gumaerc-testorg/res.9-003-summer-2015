@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 title: Projects
 uid: 5a9d01c0-741d-24bb-27ad-5970bde6ab28
 videos:

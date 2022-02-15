@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\uFEFF[Computer vision, wearable computing, and the future of transportation\
+  \ (PDF - 3.3MB)](resources/mitres_9_003sum15_sem4-2)"
+parent_title: Unit 4. Visual Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Seminar 4.2: Amnon Shashua - Applications of Vision'
 uid: d289db56-9c7f-0f88-c1e4-526bce2b2872
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Seminar_4-2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/e05decb35c4655c48e994ba17f818585_TjrRSOHQACw.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/e05decb35c4655c48e994ba17f818585_TjrRSOHQACw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/TjrRSOHQACw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/720e2607049c128d33e492a1f3ab59f0_TjrRSOHQACw.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/720e2607049c128d33e492a1f3ab59f0_TjrRSOHQACw.pdf
 video_metadata:
   youtube_id: TjrRSOHQACw
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 ---
@@ -54,20 +56,6 @@ There are no formal prerequisites, but introductory courses in the following are
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Nine tables arranged in a large rectangle. Chairs arranged along the outside of the rectangle. On one wall, a window. One the opposite wall, book shelves.]({{< resource_file fee489fd-d169-6d92-d2de-9d2c193714f7 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with tables arranged in a rectangle to facilitate discussion.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

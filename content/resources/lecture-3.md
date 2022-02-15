@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Cognition in infancy (PDF - 2.2MB)](resources/mitres_9_003sum15_lec3-1)'
+parent_title: Unit 3. Development of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.1: Liz Spelke - Cognition in Infancy Part 1'
 uid: 3261bc60-d237-f03b-b592-8ac278a66435
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Lecture_3-1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f2482cc7a71b52a788af13b74afe6161_6iW0beoK2tI.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f2482cc7a71b52a788af13b74afe6161_6iW0beoK2tI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/6iW0beoK2tI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/1d8a999b6e134bb039b4efd050e193bd_6iW0beoK2tI.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/1d8a999b6e134bb039b4efd050e193bd_6iW0beoK2tI.pdf
 video_metadata:
   youtube_id: 6iW0beoK2tI
 ---

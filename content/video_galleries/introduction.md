@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Introduction
 uid: 49281236-ae8b-1802-f634-42f7bcf66a2c
 videos:

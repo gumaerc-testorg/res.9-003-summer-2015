@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Computational roles of feedback and recurrent connections in visual
+  cortex (PDF - 6.5MB)](resources/mitres_9_003sum15_lec1-2)'
+parent_title: Unit 1. Neural Circuits of Intelligence
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.2: Gabriel Kreiman - Computational Roles of Neural Feedback'
 uid: 9f526489-9937-6db1-7d92-362937d97e25
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Lecture_1-2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/422650421305554a9058042aceb0d04b_zAx-EEelmLc.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/422650421305554a9058042aceb0d04b_zAx-EEelmLc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zAx-EEelmLc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f236005c5f7b9e44ffe2234fb29fbefa_zAx-EEelmLc.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f236005c5f7b9e44ffe2234fb29fbefa_zAx-EEelmLc.pdf
 video_metadata:
   youtube_id: zAx-EEelmLc
 ---

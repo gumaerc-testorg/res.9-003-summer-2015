@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'David Rolnick & Ishita Dasgupta: Modeling Dynamic Memory with Hopfield Networks'
 uid: 55c6c8c7-9905-f802-92c1-e02442f8cc35
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Project_5_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/eb77dc2003ab5aac8ba61b7fa4e03f2e_Bn49TBjEAI4.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/eb77dc2003ab5aac8ba61b7fa4e03f2e_Bn49TBjEAI4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Bn49TBjEAI4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/0576027aabdbe15c848252dceabde840_Bn49TBjEAI4.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/0576027aabdbe15c848252dceabde840_Bn49TBjEAI4.pdf
 video_metadata:
   youtube_id: Bn49TBjEAI4
 ---

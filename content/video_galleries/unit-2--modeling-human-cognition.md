@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 2. Modeling Human Cognition
 uid: 855d4e86-2ca9-e529-74f0-cdef3de9e9c0
 videos:

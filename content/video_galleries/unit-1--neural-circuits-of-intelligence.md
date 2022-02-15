@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 1. Neural Circuits of Intelligence
 uid: e1619dcf-4933-8ee6-8458-d20fd651289a
 videos:

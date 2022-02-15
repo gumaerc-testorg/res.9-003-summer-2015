@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Alon Baram & Laurie Bayet: Learning to Recognize Digits and Faces from Few
   Examples'
 uid: 1bffc88e-7015-e65e-1b2d-3c08d60fa07b
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Project_4_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/536f32402e215bc8819145fe4dcfbfe0_NFFX81o9yRA.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/536f32402e215bc8819145fe4dcfbfe0_NFFX81o9yRA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/NFFX81o9yRA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/48a6d6cf33436ecbdb992038c9f7e18f_NFFX81o9yRA.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/48a6d6cf33436ecbdb992038c9f7e18f_NFFX81o9yRA.pdf
 video_metadata:
   youtube_id: NFFX81o9yRA
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 9. Theory of Intelligence
 uid: a9e7f99a-ce34-3b66-1440-d2ef1d026bdf
 videos:

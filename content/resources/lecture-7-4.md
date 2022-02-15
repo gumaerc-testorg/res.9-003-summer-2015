@@ -2,15 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: See previous session.
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.5: Hynek Hermansky - Auditory Perception in Speech Technology Part
   2'
 uid: e29386f3-d919-bf43-aa08-b55bf653b7f6
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Lecture_7-5_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3cd338289d645432b3a9b81db7f5800f_Em9I6XTQA3I.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3cd338289d645432b3a9b81db7f5800f_Em9I6XTQA3I.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Em9I6XTQA3I/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/6ea9a07f9fa1027caadf0bfd467ba7f3_Em9I6XTQA3I.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/6ea9a07f9fa1027caadf0bfd467ba7f3_Em9I6XTQA3I.pdf
 video_metadata:
   youtube_id: Em9I6XTQA3I
 ---

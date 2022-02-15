@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
+parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 2. MATLAB Programming
 uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
@@ -15,7 +19,7 @@ Tutorial Overview
 ![Sequence of four images of a coin, with progressively less detail and resolution.](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/tutor2.jpg)
 {{< tdclose >}}
 {{< tdopen >}}
-One MATLAB® tutorial exercise explores how the retinal image (upper left) is processed by neurons in the early stages of the visual pathway. This processing can be modeled as convolution with spatial filters that incorporate Gaussian smoothing (upper right). The result of retinal processing can be described as convolution with the difference of two Gaussians that form a center-surround spatial structure (lower left). The spatial receptive fields of neurons in visual cortex can be described as an oriented Gabor filter, producing results such as that shown for an oblique orientation in the lower right.
+One MATLAB{{< sup "®" >}} tutorial exercise explores how the retinal image (upper left) is processed by neurons in the early stages of the visual pathway. This processing can be modeled as convolution with spatial filters that incorporate Gaussian smoothing (upper right). The result of retinal processing can be described as convolution with the difference of two Gaussians that form a center-surround spatial structure (lower left). The spatial receptive fields of neurons in visual cortex can be described as an oriented Gabor filter, producing results such as that shown for an oblique orientation in the lower right.
 {{< tdclose >}}
 
 {{< trclose >}}

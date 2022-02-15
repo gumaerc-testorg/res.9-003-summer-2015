@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
+parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 4. Neural Decoding
 uid: 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561
@@ -27,7 +31,7 @@ In experiments by Zhang et al. (2011), monkeys viewed images depicting different
 
 {{< tableclose >}}
 
-What information is contained in the neural signals generated in a region of the brain, and how is this information encoded? Is it possible to decode the neural signals to determine what information they represent? In this tutorial you will learn about _population decoding,_ a powerful method to analyze neural data in order to understand the information contained in the data and how it is encoded. The method is demonstrated through experiments that probe the neural representations underlying visual object recognition in primate visual cortex. The Neural Decoding Toolbox, implemented in MATLAB®, enables researchers to apply this analysis to many sources of neural data such as single cell recordings, fMRI, MEG and EEG.
+What information is contained in the neural signals generated in a region of the brain, and how is this information encoded? Is it possible to decode the neural signals to determine what information they represent? In this tutorial you will learn about _population decoding,_ a powerful method to analyze neural data in order to understand the information contained in the data and how it is encoded. The method is demonstrated through experiments that probe the neural representations underlying visual object recognition in primate visual cortex. The Neural Decoding Toolbox, implemented in MATLAB{{< sup "®" >}}, enables researchers to apply this analysis to many sources of neural data such as single cell recordings, fMRI, MEG and EEG.
 
 Unit Activities
 ---------------

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Functional
+  specialization in human auditory cortex (PDF - 3.1MB)](resources/mitres_9_003sum15_lec7-3)'
+parent_title: Unit 7. Audition and Speech
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.3: Nancy Kanwisher - Human Auditory Cortex'
 uid: b329b06b-9a17-2e11-33f1-dfa3b6408570
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Lecture_7-3_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/048cb9f07b155338837744517e7e0893_S7M9hXsCRFI.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/048cb9f07b155338837744517e7e0893_S7M9hXsCRFI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/S7M9hXsCRFI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/a1119565a1c31e6180fadf7b8dbccb45_S7M9hXsCRFI.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/a1119565a1c31e6180fadf7b8dbccb45_S7M9hXsCRFI.pdf
 video_metadata:
   youtube_id: S7M9hXsCRFI
 ---

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](resources/mitres_9_003sum15_tut6)'
+parent_title: Tutorial 6. Amazon Mechanical Turk
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tutorial 6: Tomer Ullman - Amazon Mechanical Turk'
 uid: 2e690401-060a-2e44-e74e-0641287f7e11
 video_files:
   archive_url: https://archive.org/download/MITRES.9-003SU15/MITRES9_003SU15_Tutorial_6_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/6d2e457205bb551b9810af786ea544ff_pCyWp8R4zsA.vtt
+  video_captions_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/6d2e457205bb551b9810af786ea544ff_pCyWp8R4zsA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/pCyWp8R4zsA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-9-003-brains-minds-and-machines-summer-course-summer-2015/fe1ad4cb1c293ef71f45c67064c235a2_pCyWp8R4zsA.pdf
+  video_transcript_file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/fe1ad4cb1c293ef71f45c67064c235a2_pCyWp8R4zsA.pdf
 video_metadata:
   youtube_id: pCyWp8R4zsA
 ---

@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
+parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 3. Machine Learning
 uid: 8f197fff-9848-87e6-768b-3b708afa1b7d
@@ -29,7 +33,7 @@ Visualization of the results of _principal components analysis_ applied to high-
 
 {{< tableclose >}}
 
-A key aspect of intelligent systems is their ability to learn from data or past experience. Modern methods for data analysis also draw heavily on techniques for learning patterns in data. This tutorial introduces many common methods for _machine learning_ that are used in the fields of intelligence science and data science. The video lectures explore some of the basic concepts and theory underlying the behavior of various learning methods and their application to different kinds of problems. This theory is complemented by hands-on computer labs in the MATLAB® computing environment, to explore the behavior of machine learning methods in practice.
+A key aspect of intelligent systems is their ability to learn from data or past experience. Modern methods for data analysis also draw heavily on techniques for learning patterns in data. This tutorial introduces many common methods for _machine learning_ that are used in the fields of intelligence science and data science. The video lectures explore some of the basic concepts and theory underlying the behavior of various learning methods and their application to different kinds of problems. This theory is complemented by hands-on computer labs in the MATLAB{{< sup "®" >}} computing environment, to explore the behavior of machine learning methods in practice.
 
 Unit Activities
 ---------------
