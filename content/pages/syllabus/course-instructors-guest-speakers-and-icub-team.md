@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Syllabus
+parent_type: SupplementalResourceSection
 parent_uid: d5687d1c-8069-f9c0-0d9e-816575ca680a
 title: Course Instructors, Guest Speakers, and iCub Team
 uid: 653d64c8-ddb9-eccf-38be-70b1c01c8ea3

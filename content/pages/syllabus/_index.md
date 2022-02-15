@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: d5687d1c-8069-f9c0-0d9e-816575ca680a
 ---
@@ -44,7 +46,7 @@ Video lectures by faculty integrate historical background, instruction on comput
 
 ### Tutorials
 
-Tutorials by faculty and postdoctoral associates introduce background material to support lectures and project work. Tutorials vary in their format, integrating a mix of video lectures, handouts, and resources to support hands-on computer work. The tutorials on MATLAB® Programming, Church Programming, and Machine Learning, include extensive programming exercises.
+Tutorials by faculty and postdoctoral associates introduce background material to support lectures and project work. Tutorials vary in their format, integrating a mix of video lectures, handouts, and resources to support hands-on computer work. The tutorials on MATLAB{{< sup "®" >}} Programming, Church Programming, and Machine Learning, include extensive programming exercises.
 
 ### Readings
 
