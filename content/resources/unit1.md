@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: e1619dcf-4933-8ee6-8458-d20fd651289a
 resourcetype: Image
 title: unit1.jpg
 uid: cf903a5c-b45b-6b69-103a-fc1c623af95f

@@ -22,6 +22,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tutorial 4. Neural Decoding
 parent_type: SupplementalResourceSection
+parent_uid: 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561
 resourcetype: Image
 title: tutor4.jpg
 uid: 930de496-ac6e-6629-9da3-9f86ce7dde29

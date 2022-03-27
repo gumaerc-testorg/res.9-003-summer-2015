@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
+parent_uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 resourcetype: Document
 title: Spatial Processing in the Visual Pathway
 uid: 2dc82de9-7261-a579-c89b-1c4cebf23856

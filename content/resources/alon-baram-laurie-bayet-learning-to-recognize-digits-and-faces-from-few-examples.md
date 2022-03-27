@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Alon Baram & Laurie Bayet: Learning to Recognize Digits and Faces from Few
   Examples'
 uid: 1bffc88e-7015-e65e-1b2d-3c08d60fa07b

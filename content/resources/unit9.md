@@ -19,6 +19,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: a9e7f99a-ce34-3b66-1440-d2ef1d026bdf
 resourcetype: Image
 title: unit9.jpg
 uid: ea34d43d-037f-bd1b-ec4d-c20f3e97567e

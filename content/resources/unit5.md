@@ -18,6 +18,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
+parent_uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
 resourcetype: Image
 title: unit5.jpg
 uid: f1377cde-cb2e-42cb-7c11-568e6a9c2eb6

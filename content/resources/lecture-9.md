@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9.1: Tomaso Poggio - iTheory: Visual Cortex & Deep Networks'
 uid: a4f05057-174c-8897-29a8-66b2cf2a5444
 video_files:

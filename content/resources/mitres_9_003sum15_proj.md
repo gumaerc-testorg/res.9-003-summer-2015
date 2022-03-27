@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
+parent_uid: 5a9d01c0-741d-24bb-27ad-5970bde6ab28
 resourcetype: Document
 title: 2015 Project Ideas
 uid: fb4bdf4a-945c-b4f1-5150-e89d1d376049

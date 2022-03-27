@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
 resourcetype: Document
 title: Probing Sensory Representations with Metameric Stimuli
 uid: 74750eb1-7b61-2c77-9697-f2a5a1b5e965

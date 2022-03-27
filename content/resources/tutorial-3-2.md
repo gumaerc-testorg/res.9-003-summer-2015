@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 3.3: Lorenzo Rosasco - Machine Learning Tutorial Part 3'
 uid: a329c178-89be-f33e-f8b5-e0dda508d70b
 video_files:

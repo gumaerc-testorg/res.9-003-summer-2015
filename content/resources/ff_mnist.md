@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
+parent_uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 resourcetype: Other
 title: FF_MNIST.zip
 uid: 648f1cb2-7eae-f772-14a0-d25c5a8abe23

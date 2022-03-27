@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
+parent_uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 resourcetype: Document
 title: Multi-Sensory Integration for the Icub Robot
 uid: 7d34d29f-86f0-5393-4003-09d922818299

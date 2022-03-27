@@ -19,6 +19,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tutorial 3. Machine Learning
 parent_type: SupplementalResourceSection
+parent_uid: 8f197fff-9848-87e6-768b-3b708afa1b7d
 resourcetype: Image
 title: tutor3.jpg
 uid: ccf77ab8-5d55-93ba-bc2e-33ad552f3a74

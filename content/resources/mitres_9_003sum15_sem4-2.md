@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
 resourcetype: Document
 title: Computer Vision, Wearable Computing, and the Future of Transportation
 uid: c6d337a0-db1b-0476-eb8f-8643d0766589

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1.6: Matt Wilson - Hippocampus, Memory, & Sleep Part 1'
 uid: 9b1e5ce2-860c-2d65-39fa-3de9a81bd8a7
 video_files:

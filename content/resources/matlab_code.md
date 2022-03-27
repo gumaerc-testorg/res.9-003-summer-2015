@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
+parent_uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 resourcetype: Other
 title: MATLAB_code.zip
 uid: 52492f21-0c06-9355-cb77-f6deb63fd26c

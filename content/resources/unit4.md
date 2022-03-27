@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
 resourcetype: Image
 title: unit4.jpg
 uid: b44faeaf-035b-c4fc-1c98-f93e902f29ed

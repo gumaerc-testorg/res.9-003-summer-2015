@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
+parent_uid: 3f513339-673d-7da1-ed3b-5faa17d7ad46
 resourcetype: Document
 title: Basic Neuroscience
 uid: 8d5538b0-1b0f-c12d-3ad5-9637a243dd54

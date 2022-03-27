@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
+parent_uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 resourcetype: Document
 title: 'iCub: An Open Source Platform for Research in Robotics & Ai'
 uid: 6e76306c-5554-05b6-c57d-71be39f40f99

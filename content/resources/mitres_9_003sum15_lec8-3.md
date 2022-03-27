@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
+parent_uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 resourcetype: Document
 title: Layered Control Architecture in Mammals and Robots
 uid: 473ae671-b3db-5c25-b922-032ba3fa771c

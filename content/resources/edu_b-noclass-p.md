@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 resourcetype: Image
 title: edu_b-noclass-p symbol
 uid: 7aa19afe-2679-4219-dcbb-a4f8febdff6d

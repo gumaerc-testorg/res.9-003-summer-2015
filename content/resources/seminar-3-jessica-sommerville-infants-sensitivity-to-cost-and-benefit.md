@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Seminar 3: Jessica Sommerville - Infants'' Sensitivity to Cost and Benefit'
 uid: 2f928a27-7410-70f8-add0-4fbf9de3f481
 video_files:

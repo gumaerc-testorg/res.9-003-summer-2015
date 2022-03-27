@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
+parent_uid: 7e2b7b55-eaa4-6494-579e-611d46d28b3a
 resourcetype: Image
 title: tutor6.jpg
 uid: 2f896fc9-5689-288c-eb18-e22964408dd4

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
 resourcetype: Document
 title: Atoms of Recognition in Human and Computer Vision
 uid: 6e754ea2-1963-10f5-ef69-f2e8a062ada2

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
+parent_uid: 67de5f18-8df4-42c1-f171-08d83925c7a8
 resourcetype: Document
 title: Introduction to Biological Audition
 uid: 8acdec0c-6bcc-81c4-a935-a9203a51d792

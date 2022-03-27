@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Introduction
 parent_type: SupplementalResourceSection
+parent_uid: 49281236-ae8b-1802-f634-42f7bcf66a2c
 resourcetype: Image
 title: intro.jpg
 uid: e6684472-0ae1-8398-0367-5ee0ae8061af

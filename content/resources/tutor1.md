@@ -19,6 +19,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
+parent_uid: 3f513339-673d-7da1-ed3b-5faa17d7ad46
 resourcetype: Image
 title: tutor1.jpg
 uid: 7d776bec-a5cd-978c-d8d5-d36f13eb9597

@@ -20,6 +20,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Tutorial 5: Church Programming'
 parent_type: SupplementalResourceSection
+parent_uid: 32907aca-b7d5-1972-49b3-b36fb769ce08
 resourcetype: Image
 title: tutor5.jpg
 uid: 20b84384-fbe1-fff3-7d7e-31991157e720

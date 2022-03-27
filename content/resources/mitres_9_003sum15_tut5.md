@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Tutorial 5: Church Programming'
 parent_type: SupplementalResourceSection
+parent_uid: 32907aca-b7d5-1972-49b3-b36fb769ce08
 resourcetype: Document
 title: Church Tutorial
 uid: 112ab1d6-d453-148f-2830-4f346b6fb7f4

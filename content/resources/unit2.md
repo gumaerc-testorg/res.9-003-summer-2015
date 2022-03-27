@@ -20,6 +20,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 2. Modeling Human Cognition
 parent_type: SupplementalResourceSection
+parent_uid: 855d4e86-2ca9-e529-74f0-cdef3de9e9c0
 resourcetype: Image
 title: unit2.jpg
 uid: a3dd6144-57fb-ef82-c3c8-cc776d7db243

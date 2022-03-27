@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Seminar 4.1: Eero Simoncelli - Probing Sensory Representations'
 uid: a53e8f09-99ac-832f-d6f6-17135d7aa6bc
 video_files:

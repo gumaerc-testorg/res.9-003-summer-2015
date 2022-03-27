@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Nick Cheney: Capturing Neural Plasticity in Deep Networks'
 uid: 48effe19-8a4c-dae5-a0f4-f070d0d2025f
 video_files:

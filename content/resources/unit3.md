@@ -20,6 +20,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 94e8157f-d23e-186e-1a9d-9a3ad7db02e4
 resourcetype: Image
 title: unit3.jpg
 uid: 4a944d1b-2976-6a0b-6f68-2f7a1ed13062

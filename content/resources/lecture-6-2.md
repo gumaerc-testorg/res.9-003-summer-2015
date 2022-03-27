@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6.3: Rebecca Saxe - MVPA: Window on the Mind via fMRI Part 1'
 uid: 837b5022-6b2c-02b8-796b-a74144926e36
 video_files:

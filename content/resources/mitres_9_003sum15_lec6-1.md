@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 4bd64119-b362-cdc8-35b3-9ea8424f1390
 resourcetype: Document
 title: Social Intelligence
 uid: a96f8312-1b4b-4c67-3fa9-a4a51ec9dde1

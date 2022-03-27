@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
+parent_uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
 resourcetype: Document
 title: From Language to Vision and Back Again
 uid: feef4cf4-fdfa-5b76-cc8d-1b7ec8b3c71c

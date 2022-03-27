@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
+parent_uid: 67de5f18-8df4-42c1-f171-08d83925c7a8
 resourcetype: Document
 title: Functional Specialization in Human Auditory Cortex
 uid: 0c5f2e44-9745-7934-0c54-2cafce6805f4

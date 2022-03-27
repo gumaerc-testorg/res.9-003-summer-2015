@@ -18,6 +18,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
+parent_uid: 4bd64119-b362-cdc8-35b3-9ea8424f1390
 resourcetype: Image
 title: unit6.jpg
 uid: 1ec1934e-bf22-f51a-57e4-1dc1839a438b
