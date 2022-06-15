@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Carlo Ciliberto: iCub: An overview (PDF)](resources/mitres_9_003sum15_lec8-6-3)
+optional_text: '[Carlo Ciliberto: iCub: An overview (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-6-3)
 
 
-  [Alesandro Roncone: Multi-sensory integration for the iCub robot(PDF - 2.3MB)](resources/mitres_9_003sum15_lec8-6-1)
+  [Alesandro Roncone: Multi-sensory integration for the iCub robot(PDF - 2.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-6-1)
 
 
-  [Raffaello Camoriano: Large-scale incremental learning for robotics (PDF)](resources/mitres_9_003sum15_lec8-6)
+  [Raffaello Camoriano: Large-scale incremental learning for robotics (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-6)
 
 
-  [Giulia Pasquale: Teaching iCub to recognize objects (PDF - 2.6MB)](resources/mitres_9_003sum15_lec8-6-2)'
+  [Giulia Pasquale: Teaching iCub to recognize objects (PDF - 2.6MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-6-2)'
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Description:** Research advances in the functionality of the iCub robot including tactile sensing, multisensory integration for 3D object tracking, incremental large-scale learning to support recognition, and interactive object learning with the human as teacher.
 
 **Instructors:** Carlo Ciliberto, Guilia Pasquale, Rafaello Camoriano, and Alessandro Roncone
+
+
+

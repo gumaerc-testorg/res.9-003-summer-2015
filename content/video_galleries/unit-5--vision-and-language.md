@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 5. Vision and Language
 uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3f44938a-4bb6-24b3-9af4-155e0e414802
@@ -20,7 +24,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Still photo of a tall blue bin in center, with a man to the left standing with a folding chair and a man to the right with a backpack.]({{< resource_file f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}})
+{{< resource f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,22 +72,22 @@ Additional information about the speakers' research and publications can be foun
 *   [Patrick Winston, MIT](http://people.csail.mit.edu/phw/index.html)
 *   [Tom Mitchell, CMU](http://www.cs.cmu.edu/~tom/)
 
-Berzak, Y., A. Barbu, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Do You See What I Mean? Visual Resolution of Linguistic Ambiguities." (PDF - 2.4MB)](http://start.csail.mit.edu/publications/EMNLP172.pdf) _Proceedings of the 2015 Conference on Empirical Methods on Natural Language Processing_ (2015): 1477–87.
+Berzak, Y., A. Barbu, et al. ["Do You See What I Mean? Visual Resolution of Linguistic Ambiguities." (PDF - 2.4MB)](http://start.csail.mit.edu/publications/EMNLP172.pdf) _Proceedings of the 2015 Conference on Empirical Methods on Natural Language Processing_ (2015): 1477–87.
 
 Huth, A. G., S. Nishimoto, et al. "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories Across the Human Brain](http://dx.doi.org/10.1016/j.neuron.2012.10.014)." _Neuron_ 76, no. 6 (2012): 1210–24.
 
 Katz, B. "[START Natural Language Question Answering System](http://start.csail.mit.edu/index.php). " (online resource)
 
-Mitchell, T., S. V. Shinkareva, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Predicting Human Brain Activity Associated with the Meanings of Nouns." (PDF)](http://www.cs.cmu.edu/~tom/pubs/science2008.pdf) _Science_ 320 (2008): 1191–95.
+Mitchell, T., S. V. Shinkareva, et al. ["Predicting Human Brain Activity Associated with the Meanings of Nouns." (PDF)](http://www.cs.cmu.edu/~tom/pubs/science2008.pdf) _Science_ 320 (2008): 1191–95.
 
-Siddharth, N., A. Barbu, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Seeing What You're Told: Sentence-Guided Activity Recognition in Video." (PDF)](http://0xab.com/papers/cvpr2014.pdf) _IEEE Conference on Computer Vision and Pattern Recognition_ (2014).
+Siddharth, N., A. Barbu, et al. ["Seeing What You're Told: Sentence-Guided Activity Recognition in Video." (PDF)](http://0xab.com/papers/cvpr2014.pdf) _IEEE Conference on Computer Vision and Pattern Recognition_ (2014).
 
-Sudre, G., D. Pomerleau, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tracking Neural Coding of Perceptual and Semantic Features of Concrete Nouns." (PDF - 1.3MB)](http://www.cs.cmu.edu/~tom/pubs/sudre_2012.pdf) _NeuroImage_ 62 (2012): 451–63.
+Sudre, G., D. Pomerleau, et al. ["Tracking Neural Coding of Perceptual and Semantic Features of Concrete Nouns." (PDF - 1.3MB)](http://www.cs.cmu.edu/~tom/pubs/sudre_2012.pdf) _NeuroImage_ 62 (2012): 451–63.
 
-Wehbe, L., B. Murphy, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses." (PDF - 1.1MB)](http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0112575.PDF) _PLOS One_ (2014): 1–19.
+Wehbe, L., B. Murphy, et al. ["Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses." (PDF - 1.1MB)](http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0112575.PDF) _PLOS One_ (2014): 1–19.
 
-Winston, P. H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Genesis Story Understanding and Story Telling System: A 21st Century Step toward Artificial Intelligence." (PDF)](http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-019_StoryWhitePaper.pdf) _Center for Barins, Minds & Machines,_ Memo no. 019 (2014).
+Winston, P. H. ["The Genesis Story Understanding and Story Telling System: A 21st Century Step toward Artificial Intelligence." (PDF)](http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-019_StoryWhitePaper.pdf) _Center for Barins, Minds & Machines,_ Memo no. 019 (2014).
 
 ———. "[The Right Way.](http://dspace.mit.edu/handle/1721.1/72174)" _Advances in Cognitive Systems_ 1 (2012): 23–36.
 
-Yu, H., N. Siddharth, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Compositional Framework for Grounded Language Inference, Generation, and Acquisition in Video."](http://upplysingaoflun.ecn.purdue.edu/~qobi/cccp/grounding-language-in-video.html)  _Journal of Artificial Intelligence Research_ 52 (2015): 601–713.
+Yu, H., N. Siddharth, et al. ["A Compositional Framework for Grounded Language Inference, Generation, and Acquisition in Video."](http://upplysingaoflun.ecn.purdue.edu/~qobi/cccp/grounding-language-in-video.html)  _Journal of Artificial Intelligence Research_ 52 (2015): 601–713.

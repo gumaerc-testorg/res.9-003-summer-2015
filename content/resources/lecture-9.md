@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[iTheory: Visual cortex and deep networks (PDF)](resources/mitres_9_003sum15_lec9-1)'
+optional_text: '[iTheory: Visual cortex and deep networks (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec9-1)'
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Describes the theoretical and empirical basis for i-theory, which embodies a hierarchical feedforward network model of processing in the ventral visual pathway of the primate brain, to support invariant object recognition.
 
 **Instructor:** Tomaso Poggio
+
+
+

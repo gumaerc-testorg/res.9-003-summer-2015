@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Developing an understanding of communication (PDF - 2.3MB)](resources/mitres_9_003sum15_lec3-3)'
+optional_text: '[Developing an understanding of communication (PDF - 2.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec3-3)'
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Infant development of understanding speech as communicative action with information transfer, reasoning about information access and sources, identifying intentions of communication, shared attention, and the role of speaker meaning in child development.
 
 **Instructor:** Alia Martin
+
+
+

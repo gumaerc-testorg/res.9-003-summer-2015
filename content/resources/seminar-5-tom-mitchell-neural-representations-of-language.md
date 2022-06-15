@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: No slides are provided for this session.
 parent_title: Unit 5. Vision and Language
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Modelling the neural representations of language using machine learning to classify words from fMRI data, predictive models for word feature combinations, probing the timing of semantic processing with MEG, neural interpretation of adjective-noun phrases.
 
 **Instructor:** Tom Mitchell
+
+
+

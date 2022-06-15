@@ -4,9 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Predicting visual memory: Behavioral, neuroscience, and computational
-  accounts (PDF - 9.7MB)](resources/mitres_9_003sum15_lec4-3)'
+  accounts (PDF - 9.7MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec4-3)'
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** What makes an image memorable? Discussing visual memory experiments, consistency of memorability across observers, memorability of images, neural framework for memorability, and biologically inspired deep neural network model of object recognition.
 
 **Instructor:** Aude Oliva
+
+
+

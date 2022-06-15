@@ -4,9 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Computational roles of feedback and recurrent connections in visual
-  cortex (PDF - 6.5MB)](resources/mitres_9_003sum15_lec1-2)'
+  cortex (PDF - 6.5MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec1-2)'
 parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Neural computation and methods to study visual processing in the brain. Models of single neurons and neural circuits, hierarchical cortical architecture, feedforward processing, role of feedback signals in V1 cells, pattern completion, and visual search.
 
 **Instructor:** Gabriel Kreiman
+
+
+

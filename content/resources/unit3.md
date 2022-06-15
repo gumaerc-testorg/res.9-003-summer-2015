@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of young boy building a tower of blocks.
-file: /media/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/4a944d1b29766a0b6f682f7a1ed13062_unit3.jpg
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/4a944d1b29766a0b6f682f7a1ed13062_unit3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: How does a child develop the knowledge of physical objects and their behavior
@@ -24,4 +24,8 @@ parent_uid: 94e8157f-d23e-186e-1a9d-9a3ad7db02e4
 resourcetype: Image
 title: unit3.jpg
 uid: 4a944d1b-2976-6a0b-6f68-2f7a1ed13062
+video_metadata:
+  youtube_id: null
 ---
+Photo of young boy building a tower of blocks.
+

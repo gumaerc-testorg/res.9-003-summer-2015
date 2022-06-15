@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: No slides are provided for this session.
 parent_title: Unit 8. Robotics
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Panel discussion on how developments in robotics can provide insights about navigation and motor control in biological systems and how biological studies may inform robotic design for complex tasks such as those posed by DARPA grand challenges.
 
 **Instructors:** Tony Prescott, Giorgio Metta, Stefanie Tellex, John Leonard, and Russ Tedrake
+
+
+

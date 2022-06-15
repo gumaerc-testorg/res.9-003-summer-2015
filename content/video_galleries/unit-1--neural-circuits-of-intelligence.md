@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: 'This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 1. Neural Circuits of Intelligence
 uid: e1619dcf-4933-8ee6-8458-d20fd651289a
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 07497588-b2da-35d7-78f5-d0dab5a1da4b
@@ -24,7 +28,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of primate brain with colored patches highlighting regions associated with different facial orientations.]({{< resource_file cf903a5c-b45b-6b69-103a-fc1c623af95f >}})
+{{< resource cf903a5c-b45b-6b69-103a-fc1c623af95f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.)
@@ -53,8 +57,8 @@ Unit Activities
 
 ### Useful Background
 
-*   Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the [video tutorial on neuroscience]({{< baseurl >}}/pages/tutorials/tutorial-1.-basic-neuroscience) by Leyla Isik.
-*   Introduction to machine learning, including simple linear classification methods. View Part 1 of the [video tutorial on machine learning]({{< baseurl >}}/pages/tutorials/tutorial-3.-machine-learning) by Lorenzo Rosasco.
+*   Introduction to neuroscience, including the structure and function of neurons, functional organization of the brain, and common empirical methods such as single cell recording and fMRI. View the {{% resource_link 3f513339-673d-7da1-ed3b-5faa17d7ad46 "video tutorial on neuroscience" %}} by Leyla Isik.
+*   Introduction to machine learning, including simple linear classification methods. View Part 1 of the {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "video tutorial on machine learning" %}} by Lorenzo Rosasco.
 *   [Nancy's Brain Talks](http://nancysbraintalks.mit.edu/) includes short talks on fMRI and other brain imaging methods, and how these methods are used to study problems such as face perception.
 
 ### Videos and Slides
@@ -74,7 +78,7 @@ Additional information about the speakers' research and publications can be foun
 *   [Gabriel Kreiman, Harvard](http://klab.tch.harvard.edu/#sthash.wP5ThJg1.dpbs)
 *   [Matt Wilson, MIT](http://web.mit.edu/org/w/wilsonlab/)
 
-Aso, Y., D. Hattori, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Neuronal Architecture of the Mushroom Body Provides a Logic for Associative Learning." (PDF - 7.7MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273437/pdf/elife04577.pdf) _eLife_ 3, no. e04577 (2014): 1–47.
+Aso, Y., D. Hattori, et al. ["The Neuronal Architecture of the Mushroom Body Provides a Logic for Associative Learning." (PDF - 7.7MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273437/pdf/elife04577.pdf) _eLife_ 3, no. e04577 (2014): 1–47.
 
 Bendor, D., and M. A. Wilson. ["Biasing the Content of Hippocampal Replay During Sleep." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354843/pdf/nihms509914.pdf) _Nature Neuroscience_ 15 (2012): 1439–44.
 
@@ -82,28 +86,28 @@ Davidson, T. J., F. Kloosterman, et al. "[Hippocampal Replay of Extended Experie
 
 Deen, B., K. Koldewyn, et al. "[Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus](https://doi.org/10.1093/cercor/bhv111)." _Cerebral Cortex_ 25, no. 11 (2015): 4596–609.
 
-DiCarlo, J. J., and D. D. Cox. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Untangling Invariant Object Recognition." (PDF - 1.5MB)](https://www.sciencedirect.com/science/article/pii/S1364661307001593) _Trends in Cognitive Sciences_ 11, no. 8 (2007): 333–41.
+DiCarlo, J. J., and D. D. Cox. ["Untangling Invariant Object Recognition." (PDF - 1.5MB)](https://www.sciencedirect.com/science/article/pii/S1364661307001593) _Trends in Cognitive Sciences_ 11, no. 8 (2007): 333–41.
 
 DiCarlo, J. J., D. Zoccolan, et al. "[How Does the Brain Solve Visual Object Recognition?](http://dx.doi.org/10.1016/j.neuron.2012.01.010)" _Neuron_ 73, no. 3 (2012): 415–34.
 
-Fedorenko, E., M. K. Behr, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Functional Specificity for High-Level Linguistic Processing in the Human Brain." (PDF - 1.1MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182706/pdf/pnas.201112937.pdf) _Proceedings of National Academy of Sciences_ 108, no. 39 (2011): 16428–33.
+Fedorenko, E., M. K. Behr, et al. ["Functional Specificity for High-Level Linguistic Processing in the Human Brain." (PDF - 1.1MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182706/pdf/pnas.201112937.pdf) _Proceedings of National Academy of Sciences_ 108, no. 39 (2011): 16428–33.
 
-Freiwald, W. A., and D. Y. Tsao. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Functional Compartmentalization and Viewpoint Generalization within the Macaque Face-Processing System](https://doi.org/10.1126/science.1194908)." _Science_ 330, no. 6005 (2010): 845–51.
+Freiwald, W. A., and D. Y. Tsao. "[Functional Compartmentalization and Viewpoint Generalization within the Macaque Face-Processing System](https://doi.org/10.1126/science.1194908)." _Science_ 330, no. 6005 (2010): 845–51.
 
-Freiwald, W. A., D. Y. Tsao, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Face Feature Space in the Macaque Temporal Lobe." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819705/pdf/nihms173109.pdf) _Nature Neuroscience_ 12 (2009): 1187–96.
+Freiwald, W. A., D. Y. Tsao, et al. ["A Face Feature Space in the Macaque Temporal Lobe." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819705/pdf/nihms173109.pdf) _Nature Neuroscience_ 12 (2009): 1187–96.
 
-Hung, C. P., G. Kreiman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fast Readout of Object Identity from Macaque Inferior Temporal Cortex." (PDF)](https://science.sciencemag.org/content/310/5749/863) _Science_ 310 (2005): 863–66.
+Hung, C. P., G. Kreiman, et al. ["Fast Readout of Object Identity from Macaque Inferior Temporal Cortex." (PDF)](https://science.sciencemag.org/content/310/5749/863) _Science_ 310 (2005): 863–66.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019163) Kanwisher, N., and D. Dilks, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Functional Organization of the Ventral Visual Pathway in Humans." (PDF)](http://web.mit.edu/bcs/nklab/media/pdfs/KanwisherDilks.in Chalupa_WernerTNVN.inpress.pdf) In _The New Visual Neurosciences_. Edited by L. Chalupa and J. Werner. MIT Press, 2013, pp. 733–48. ISBN: 9780262019163.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019163) Kanwisher, N., and D. Dilks, D. ["The Functional Organization of the Ventral Visual Pathway in Humans." (PDF)](http://web.mit.edu/bcs/nklab/media/pdfs/KanwisherDilks.in Chalupa_WernerTNVN.inpress.pdf) In _The New Visual Neurosciences_. Edited by L. Chalupa and J. Werner. MIT Press, 2013, pp. 733–48. ISBN: 9780262019163.
 
-Kreiman, G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Computational Models of Visual Object Recognition." (PDF)](http://klab.tch.harvard.edu/publications/PDFs/gk3760_K12460_C029.pdf) In _Principles of Neural Coding_. Edited by R. Q. Quiroga and S. Panzeri. CRC Press, 2013, pp. 565–80. ISBN: 9781439853306. \[Preview with [Google Books](http://books.google.com/books?id=-vimcQPssQYC&pg=PA565=onepage)\]
+Kreiman, G. ["Computational Models of Visual Object Recognition." (PDF)](http://klab.tch.harvard.edu/publications/PDFs/gk3760_K12460_C029.pdf) In _Principles of Neural Coding_. Edited by R. Q. Quiroga and S. Panzeri. CRC Press, 2013, pp. 565–80. ISBN: 9781439853306. \[Preview with [Google Books](http://books.google.com/books?id=-vimcQPssQYC&pg=PA565=onepage)\]
 
 Meyers, E. M., M. Borzello, et al. "[Intelligent Information Loss: The Coding of Facial Identity, Head Pose, and Non-Face Information in the Macaque Face Patch System](http://dx.doi.org/10.1523/JNEUROSCI.3086-14.2015 )." _Journal of Neuroscience_ 35, no. 18 (2015): 7069–81.
 
-Miconi, T., L. Groomes, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["There's Waldo! A Normalization Model of Visual Search Predicts Single-Trial Human Fixations in an Object Search Task." (PDF - 6.5MB)](http://klab.tch.harvard.edu/publications/PDFs/gk7156.pdf) _Cerebral Cortex_ 26, no. 7 (2015): 3064–82.
+Miconi, T., L. Groomes, et al. ["There's Waldo! A Normalization Model of Visual Search Predicts Single-Trial Human Fixations in an Object Search Task." (PDF - 6.5MB)](http://klab.tch.harvard.edu/publications/PDFs/gk7156.pdf) _Cerebral Cortex_ 26, no. 7 (2015): 3064–82.
 
-Nassi, J. J., C. Gomez-Laberge, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Corticocortical Feedback Increases the Spatial Extent of Normalization." (PDF - 2.9MB)](http://www.hms.harvard.edu/bss/neuro/bornlab/lab/papers/nassi-gomez-kreiman-born-feedback_normalization-frontsystneurosci2014.pdf) _Frontiers in Systems Neuroscience_ 8, no. 105 (2014): 1–13.
+Nassi, J. J., C. Gomez-Laberge, et al. ["Corticocortical Feedback Increases the Spatial Extent of Normalization." (PDF - 2.9MB)](http://www.hms.harvard.edu/bss/neuro/bornlab/lab/papers/nassi-gomez-kreiman-born-feedback_normalization-frontsystneurosci2014.pdf) _Frontiers in Systems Neuroscience_ 8, no. 105 (2014): 1–13.
 
 Tang, H., C. Buia, et al. "[Spatiotemporal Dynamics Underlying Object Completion in Human Ventral Visual Cortex](http://dx.doi.org/10.1016/j.neuron.2014.06.017)." _Neuron_ 83, no. 3 (2014): 736–48.
 
-Yamins, D. L. K., H. Hong, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Performance-optimized Hierarchical Models Predict Neural Responses in Higher Visual Cortex." (PDF - 1.7MB)](http://www.pnas.org/content/111/23/8619.full.pdf) _Proceedings of the National Academy of Sciences_ 111, no. 23 (2014): 8619–24.
+Yamins, D. L. K., H. Hong, et al. ["Performance-optimized Hierarchical Models Predict Neural Responses in Higher Visual Cortex." (PDF - 1.7MB)](http://www.pnas.org/content/111/23/8619.full.pdf) _Proceedings of the National Academy of Sciences_ 111, no. 23 (2014): 8619–24.

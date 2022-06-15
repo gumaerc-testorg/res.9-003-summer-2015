@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: No slides are provided for this session.
 parent_title: Unit 3. Development of Intelligence
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Much like scientists, children make judgements about the cost and value of information, learn from statistical evidence, use interpretations affected by belief, explore ambiguity, isolate variables, and make generalizations dependent on the evidence.
 
 **Instructor:** Laura Schulz
+
+
+

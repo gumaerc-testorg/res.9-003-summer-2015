@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](resources/mitres_9_003sum15_tut6)'
+optional_text: '[Amazon Mechanical Turk Tutorial (PDF)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut6)'
 parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Learn how Amazon Mechnical Turk can be used in large-scale experiments, on simple tasks involving perception or decision-making, or to crowdsource data on large image/video libraries. Discuss the pros and cons of using MTurk, and tips for effective use.
 
 **Instructor:** Tomer Ullman
+
+
+

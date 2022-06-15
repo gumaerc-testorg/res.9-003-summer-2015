@@ -4,7 +4,7 @@ description: fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and collea
   reveals subregions of area STS in the human brain, roughly portrayed here, that
   are engaged in aspects of social cognition such as Theory of Mind, voice perception,
   language, and face analysis.
-file: /media/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/1ec1934ebf22f51a57e41dc1839a438b_unit6.jpg
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/1ec1934ebf22f51a57e41dc1839a438b_unit6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues
@@ -22,4 +22,8 @@ parent_uid: 4bd64119-b362-cdc8-35b3-9ea8424f1390
 resourcetype: Image
 title: unit6.jpg
 uid: 1ec1934e-bf22-f51a-57e4-1dc1839a438b
+video_metadata:
+  youtube_id: null
 ---
+fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues reveals subregions of area STS in the human brain, roughly portrayed here, that are engaged in aspects of social cognition such as Theory of Mind, voice perception, language, and face analysis.
+

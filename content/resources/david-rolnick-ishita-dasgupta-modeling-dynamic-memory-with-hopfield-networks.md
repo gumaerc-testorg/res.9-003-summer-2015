@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** David Rolnick and Ishita Dasgupta explore how Hopfield networks, commonly used to model static memories, can be extended to represent dynamically shifting memory states that capture stochastic sequences of events.
 
 **Speaker:** David Rolnick and Ishita Dasgupta
+
+
+

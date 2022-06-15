@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[The social mind (PDF - 3.3MB)](resources/mitres_9_003sum15_lec6-2)'
+optional_text: '[The social mind (PDF - 3.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec6-2)'
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Aspects of human intelligence arising from complex social environments. Early theories of social cognition by Humphreys and Dennett, group social behaviors in animals, variation in human face recognition ability, rapid detection of human actions.
 
 **Instructor:** Ken Nakayama
+
+
+

@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Vision and language (PDF - 2.5MB)](resources/mitres_9_003sum15_lec5-1)'
+optional_text: '[Vision and language (PDF - 2.5MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec5-1)'
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -22,7 +23,9 @@ video_files:
 video_metadata:
   youtube_id: yEbr410E2RE
 ---
-
 **Description:** Combining language and vision processing to solve problems in computer scene recognition and scene understanding, language understanding and knowledge representation in the START question answering system, comparison to IBM’s Watson.
 
 **Instructor:** Boris Katz
+
+
+

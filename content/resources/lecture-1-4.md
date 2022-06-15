@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Of primates, faces, and intelligence (PDF - 5.7MB)](resources/mitres_9_003sum15_lec1-5)'
+optional_text: '[Of primates, faces, and intelligence (PDF - 5.7MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec1-5)'
 parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Facial recognition in the brain. Primate vs. mammalian brain anatomy, social intelligence hypothesis, emotion and facial expression and communication. The macaque face processing network: from face detection to invariant recognition, and its connectivity.
 
 **Instructor:** Winrich Freiwald
+
+
+

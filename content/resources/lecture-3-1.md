@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
 parent_title: Unit 3. Development of Intelligence
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Behavioral methods to study cognitive development in infants, probing infants’ evolving understanding of objects and their physical behaviors, and understanding of agents who engage in goal-directed activity and initiate social interactions.
 
 **Instructor:** Liz Spelke
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: No slides are provided for this session.
 parent_title: Unit 7. Audition and Speech
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Panelists discuss developments in the fields of vision and audition, comparing and contrasting the nature of the two modalities and computational and experimental research methods used to study them, and exploiting similarities to advance this research.
 
 **Instructors:** Josh Tenenbaum, Hynek Hermansky, Josh McDermott, Gabriel Kreiman, and Dan Yamins
+
+
+

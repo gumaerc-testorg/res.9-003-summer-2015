@@ -4,9 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[iCub: An open source platform for research in robotics & AI (PDF
-  - 1.6MB)](resources/mitres_9_003sum15_lec8-5)'
+  - 1.6MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec8-5)'
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Discussing the open source, humanoid robot called iCub. Covers mechanics, sensors, construction, image recognition, sensory perception, body dynamics.
 
 **Instructor:** Giorgio Metta
+
+
+

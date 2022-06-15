@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[From simple innate biases to complex visual concepts (PDF - 2.4MB)](resources/mitres_9_003sum15_lec4-1)'
+optional_text: '[From simple innate biases to complex visual concepts (PDF - 2.4MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec4-1)'
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Visual understanding evolves from simple innate biases to complex visual concepts. How computer models can learn to recognize hands and follow gaze by leveraging simple motion and pattern detection processes present in early infancy.
 
 **Instructor:** Shimon Ullman
+
+
+

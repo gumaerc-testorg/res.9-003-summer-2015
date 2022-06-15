@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 6. Social Intelligence
 uid: 4bd64119-b362-cdc8-35b3-9ea8424f1390
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - e3737c7b-cd6c-e66d-2e6f-c4d91a2503e9
@@ -20,7 +24,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of the human brain, with 5 subregions highlighted along the temporal lobe.]({{< resource_file 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}})
+{{< resource 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues reveals subregions of area STS in the human brain, roughly portrayed here, that are engaged in aspects of social cognition such as Theory of Mind, voice perception, language, and face analysis. (Image courtesy of Nancy Kanwisher, used with permission.)
@@ -46,8 +50,8 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to neuroscience and cognitive science
-*   Background on the sociality of primates and its connection to intelligence, from Winrich Freiwald's [Lecture L1.5]({{< baseurl >}}/video_galleries/unit-1.-neural-circuits-of-intelligence#L1.5) in Unit 1: Neural Circuits of Intelligence.
-*   An introduction to machine learning is useful for Part 2 of Rebecca Saxe's lecture. View [Tutorial T3.1 Machine Learning (Part1)]({{< baseurl >}}/pages/tutorials/tutorial-3.-machine-learning#Machine_learning_part1) by Lorenzo Rosasco.
+*   Background on the sociality of primates and its connection to intelligence, from Winrich Freiwald's {{% resource_link e1619dcf-4933-8ee6-8458-d20fd651289a "Lecture L1.5" "#L1.5" %}} in Unit 1: Neural Circuits of Intelligence.
+*   An introduction to machine learning is useful for Part 2 of Rebecca Saxe's lecture. View {{% resource_link 8f197fff-9848-87e6-768b-3b708afa1b7d "Tutorial T3.1 Machine Learning (Part1)" "#Machine_learning_part1" %}} by Lorenzo Rosasco.
 
 ### Videos and Slides
 
@@ -67,12 +71,12 @@ Deen, B., K. Koldewyn, et al. "[Functional Organization of Social Perception and
 
 Duchaine, B., and K. Nakayama. "[The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants](https://www.researchgate.net/profile/Ken_Nakayama/publication/7593331_The_Cambridge_Face_Memory_Test_results_for_neurologically_intact_individuals_and_an_investigation_of_its_validity_using_inverted_face_stimuli_and_prosopagnosic_participants/)." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
 
-Koster-Hale, J., and R. Saxe. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
+Koster-Hale, J., and R. Saxe. ["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
 
-Koster-Hale, J., M. Bedny, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
+Koster-Hale, J., M. Bedny, et al. ["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
 
-Peterson, M. F., J. Lin, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
+Peterson, M. F., J. Lin, et al. ["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
 
-Skerry, A. E., and R. Saxe. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
+Skerry, A. E., and R. Saxe. ["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
 
-Vaziri-Pashkam, M., S. Cormiea, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).
+Vaziri-Pashkam, M., S. Cormiea, et al. ["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Neural mechanisms underlying visual object recognition (PDF - 17.7MB)](/ans7870/RES/RES.9-003/MITRES_9_003SUM15_Lec1-3.pdf)'
 parent_title: Unit 1. Neural Circuits of Intelligence
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Neural circuits underlying object recognition. Feedforward processing in the ventral visual stream from the retina to inferior temporal cortex. Models to decode IT signals to infer object identity and predict human recognition behavior in cluttered scenes.
 
 **Instructor:** James DiCarlo
+
+
+

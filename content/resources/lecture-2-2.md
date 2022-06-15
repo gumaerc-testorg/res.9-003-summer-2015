@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
 parent_title: Unit 2. Modeling Human Cognition
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Exploring how humans learn new concepts and make intelligent inferences from little experience. Using probabilistic generative models to reason about the physical and social world, and provide rich causal explanations of behavior.
 
 **Instructor:** Josh Tenenbaum
+
+
+

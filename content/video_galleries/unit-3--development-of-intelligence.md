@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: 'This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 3. Development of Intelligence
 uid: 94e8157f-d23e-186e-1a9d-9a3ad7db02e4
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3261bc60-d237-f03b-b592-8ac278a66435
@@ -23,7 +27,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of a young boy building a tower out of wooden blocks.]({{< resource_file 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}})
+{{< resource 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -61,7 +65,7 @@ Unit Activities
 ### Useful Background
 
 *   Introduction to cognitive science
-*   Lectures by Josh Tenenbaum from the [Modeling Human Cognition]({{< baseurl >}}/video_galleries/unit-2.-modeling-human-cognition) unit provide useful background for the lecture by Josh Tenenbaum in this unit, and for the debate between Tomer Ullman and Laura Schulz
+*   Lectures by Josh Tenenbaum from the {{% resource_link 855d4e86-2ca9-e529-74f0-cdef3de9e9c0 "Modeling Human Cognition" %}} unit provide useful background for the lecture by Josh Tenenbaum in this unit, and for the debate between Tomer Ullman and Laura Schulz
 
 ### Videos and Slides
 
@@ -82,26 +86,26 @@ Additional information about the speakers' research and publications can be foun
 
 Beier, J. S., and E. S. Spelke. "[Infants' Developing Understanding of Social Gaze.](https://doi.org/10.1111/j.1467-8624.2011.01702.x)" _Child Development_ 83, no. 2 (2012): 486–96.
 
-Cook, C., N. D. Goodman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play." (PDF)](https://pubmed.ncbi.nlm.nih.gov/21561605/) _Cognition_ 120 (2011): 341–49.
+Cook, C., N. D. Goodman, et al. ["Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play." (PDF)](https://pubmed.ncbi.nlm.nih.gov/21561605/) _Cognition_ 120 (2011): 341–49.
 
 Dillon, M. R., and E. S. Spelke. "[Core Geometry in Perspective.](https://doi.org/10.1111/desc.12266)" _Developmental Science_ 18, no. 6 (2014): 894–908.
 
-Gweon, H., J. B. Tenenbaum, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Infants Consider Both the Sample and the Sampling Process in Inductive Generalization." (PDF)](https://www.pnas.org/content/107/20/9066) _Proceedings of the National Academy of Sciences_ 107, no. 20 (2010): 9066–71.
+Gweon, H., J. B. Tenenbaum, et al. ["Infants Consider Both the Sample and the Sampling Process in Inductive Generalization." (PDF)](https://www.pnas.org/content/107/20/9066) _Proceedings of the National Academy of Sciences_ 107, no. 20 (2010): 9066–71.
 
-Jara-Ettinger, J., H. Gweon, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Children's Understanding of the Costs and Rewards Underlying Rational Action." (PDF)](https://pubmed.ncbi.nlm.nih.gov/25867996/) _Cognition_ 140 (2015): 14–23.
+Jara-Ettinger, J., H. Gweon, et al. ["Children's Understanding of the Costs and Rewards Underlying Rational Action." (PDF)](https://pubmed.ncbi.nlm.nih.gov/25867996/) _Cognition_ 140 (2015): 14–23.
 
-Lake, B., R. Salakhutdinov, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Human-level Concept Learning through Probabilistic Program Induction." (PDF - 1.7MB)](http://www.cs.toronto.edu/~rsalakhu/papers/LakeEtAl2015Science.pdf) _Cognitive Science_ 350, no. 6266 (2015): 1332–38.
+Lake, B., R. Salakhutdinov, et al. ["Human-level Concept Learning through Probabilistic Program Induction." (PDF - 1.7MB)](http://www.cs.toronto.edu/~rsalakhu/papers/LakeEtAl2015Science.pdf) _Cognitive Science_ 350, no. 6266 (2015): 1332–38.
 
 Magid, R. W., M. Sheshkin, et al. ["Imagination and the Generation of New Ideas." (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744) _Cognitive Development_ 34 (2015): 99–110.
 
 Martin, A. K., and K. R. Olson. "[Beyond Good and Evil: What Motivations Underlie Children's Prosocial Behavior?](http://dx.doi.org/10.1177/1745691615568998)" _Perspectives on Psychological Science_ 10, no. 2 (2015): 159–75.
 
-Martin, A., K. H. Onishi, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding the Abstract Role of Speech in Communication at 12 Months." (PDF)](https://www.academia.edu/3220656/Understanding_the_abstract_role_of_speech_in_communication_at_12_months) _Cognition_ 123 (2012): 50–60.
+Martin, A., K. H. Onishi, et al. ["Understanding the Abstract Role of Speech in Communication at 12 Months." (PDF)](https://www.academia.edu/3220656/Understanding_the_abstract_role_of_speech_in_communication_at_12_months) _Cognition_ 123 (2012): 50–60.
 
-Schulz, L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Origins of Inquiry: Inductive Inference and Exploration in Early Childhood." (PDF - 1.4MB)](https://www.sciencedirect.com/science/article/pii/S1364661312001301) _Trends in Cognitive Sciences_ 16, no. 7 (2012): 382–89.
+Schulz, L. ["The Origins of Inquiry: Inductive Inference and Exploration in Early Childhood." (PDF - 1.4MB)](https://www.sciencedirect.com/science/article/pii/S1364661312001301) _Trends in Cognitive Sciences_ 16, no. 7 (2012): 382–89.
 
-Skerry, A. E., S. E. Carey, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["First-person Action Experience Reveals Sensitivity to Action Efficiency in Prereaching Infants." (PDF)](http://www.pnas.org/content/pnas/110/46/18728.full.pdf) _Proceedings of the National Academy of Sciences_ 110, no. 46 (2013): 18728–33.
+Skerry, A. E., S. E. Carey, et al. ["First-person Action Experience Reveals Sensitivity to Action Efficiency in Prereaching Infants." (PDF)](http://www.pnas.org/content/pnas/110/46/18728.full.pdf) _Proceedings of the National Academy of Sciences_ 110, no. 46 (2013): 18728–33.
 
-Ullman, T. D., N. D. Goodman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Theory Learning as Stochastic Search in the Language of Thought." (PDF - 2.5MB)](http://web.mit.edu/tomeru/www/papers/tlss-final.pdf) _Cognitive Development_ 27, no. 4 (2012): 455–80.
+Ullman, T. D., N. D. Goodman, et al. ["Theory Learning as Stochastic Search in the Language of Thought." (PDF - 2.5MB)](http://web.mit.edu/tomeru/www/papers/tlss-final.pdf) _Cognitive Development_ 27, no. 4 (2012): 455–80.
 
-Upshaw, M. B., R. A. Bernier, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Infants' Grip Strength Predicts Mu Rhythm Attenuation During Observation of Lifting Actions with Weighted Blocks." (PDF)](https://www.ncbi.nlm.nih.gov/pubmed/25939632) _Developmental Science_ 19, no. 2 (2015): 1–13.
+Upshaw, M. B., R. A. Bernier, et al. ["Infants' Grip Strength Predicts Mu Rhythm Attenuation During Observation of Lifting Actions with Weighted Blocks." (PDF)](https://www.ncbi.nlm.nih.gov/pubmed/25939632) _Developmental Science_ 19, no. 2 (2015): 1–13.

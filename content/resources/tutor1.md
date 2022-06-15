@@ -4,7 +4,7 @@ description: "The two-streams hypothesis distinguishes two processing pathways i
   \ the brain: the ventral stream (also known as the \u201Cwhat pathway\u201D) shown\
   \ in purple and the dorsal stream (also known as the \u201Cwhere\u201D pathway\u201D\
   ) shown in green."
-file: /media/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/7d776beca5cd978cd8d5d36f13eb9597_tutor1.jpg
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/7d776beca5cd978cd8d5d36f13eb9597_tutor1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "The two-streams hypothesis distinguishes two processing pathways in the\
@@ -23,4 +23,8 @@ parent_uid: 3f513339-673d-7da1-ed3b-5faa17d7ad46
 resourcetype: Image
 title: tutor1.jpg
 uid: 7d776bec-a5cd-978c-d8d5-d36f13eb9597
+video_metadata:
+  youtube_id: null
 ---
+The two-streams hypothesis distinguishes two processing pathways in the brain: the ventral stream (also known as the “what pathway”) shown in purple and the dorsal stream (also known as the “where” pathway”) shown in green.
+

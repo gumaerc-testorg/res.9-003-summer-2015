@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Danny Jeck explores how modulations in neural behavior in the early stages of visual processing, due to shifts in the focus of visual attention, impact the performance of later cortical areas engaged in object recognition.
 
 **Speaker:** Danny Jeck
+
+
+

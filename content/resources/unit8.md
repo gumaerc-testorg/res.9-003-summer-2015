@@ -4,7 +4,7 @@ description: Robotics researchers at the University of Sheffield, led by Tony Pr
   have built a robot that senses the environment with moving whiskers, incorporating
   a model of whisking behavior in rodents and observations of sensory-motor systems
   in the mammalian brain.
-file: /media/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/0c5eb8f4ce53cf758e89923a1e652046_unit8.jpg
+file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/0c5eb8f4ce53cf758e89923a1e652046_unit8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Robotics researchers at the University of Sheffield, led by Tony Prescott,
@@ -22,4 +22,8 @@ parent_uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 resourcetype: Image
 title: unit8.jpg
 uid: 0c5eb8f4-ce53-cf75-8e89-923a1e652046
+video_metadata:
+  youtube_id: null
 ---
+Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain.
+

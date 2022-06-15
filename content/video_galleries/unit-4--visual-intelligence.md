@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Unit 4. Visual Intelligence
 uid: 289e2ca7-7ee3-0e59-cb99-42b74cd2ddf9
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 5cc7066f-9317-499a-9601-b77e09b3db7a
@@ -21,7 +25,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A 3x3 grid of photos: top row "memorable" includes a giant inflatable gorilla; middle row "average" includes a grocery store produce section; bottom "forgettable" includes generic landscapes.]({{< resource_file b44faeaf-035b-c4fc-1c98-f93e902f29ed >}})
+{{< resource b44faeaf-035b-c4fc-1c98-f93e902f29ed >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -71,18 +75,18 @@ Additional information about the speakers' research and publications can be foun
 *   [Eero Simoncelli, Laboratory for Computational Vision, NYU](http://www.cns.nyu.edu/~lcv/)
 *   [Shimon Ullman, MIT and The Weizmann Institute](http://www.wisdom.weizmann.ac.il/~shimon/)
 
-Bylinskii, Z., P. Isola, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Intrinsic and Extrinsic Effects on Image Variability." (PDF - 4.8MB)](http://web.mit.edu/zoya/www/docs/figrimProof.pdf) _Vision Research_ 116 Part B (2015): 165–78.
+Bylinskii, Z., P. Isola, et al. ["Intrinsic and Extrinsic Effects on Image Variability." (PDF - 4.8MB)](http://web.mit.edu/zoya/www/docs/figrimProof.pdf) _Vision Research_ 116 Part B (2015): 165–78.
 
 Cichy, R. M., A. Khosla, et al. "[Dynamics of Scene Representations in the Human Brain Revealed by Magnetoencephalography and Deep Neural Networks](http://dx.doi.org/10.1016/j.neuroimage.2016.03.063)." _NeuroImage_ (2016). (in press)
 
-Freeman, J., and E. P. Simoncelli. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Metamers of the Ventral Stream." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/freeman10-reprint.pdf) _Nature Neuroscience_ 14, no. 9 (2011): 1195–1201.
+Freeman, J., and E. P. Simoncelli. ["Metamers of the Ventral Stream." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/freeman10-reprint.pdf) _Nature Neuroscience_ 14, no. 9 (2011): 1195–1201.
 
-Freeman, J., C. M. Ziemba, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Functional and Perceptual Signature of the Second Visual Area in Primates." (PDF - 1.5MB)](http://www.cns.nyu.edu/pub/lcv/freeman13-reprint.pdf) _Nature Neuroscience_ 16, no. 7 (2013): 974–81.
+Freeman, J., C. M. Ziemba, et al. ["A Functional and Perceptual Signature of the Second Visual Area in Primates." (PDF - 1.5MB)](http://www.cns.nyu.edu/pub/lcv/freeman13-reprint.pdf) _Nature Neuroscience_ 16, no. 7 (2013): 974–81.
 
-Portilla, J., and E. P. Simoncelli. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf) _International Journal of Computer Vision_ 40, no. 1 (2000): 49–71.
+Portilla, J., and E. P. Simoncelli. ["A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf) _International Journal of Computer Vision_ 40, no. 1 (2000): 49–71.
 
-Ullman, S., L. Assif, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Atoms of Recognition in Human and Computer Vision." (PDF)](http://www.pnas.org/content/113/10/2744.full.pdf) _Proceedings of the National Academy of Sciences_ 113, no. 10 (2016): 2744–49.
+Ullman, S., L. Assif, et al. ["Atoms of Recognition in Human and Computer Vision." (PDF)](http://www.pnas.org/content/113/10/2744.full.pdf) _Proceedings of the National Academy of Sciences_ 113, no. 10 (2016): 2744–49.
 
-Ullman, S., D. Harari, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["From Simple Innate Biases to Complex Visual Concepts." (PDF - 2.5MB)](http://cs.wellesley.edu/~vision/papers/Ullman_PNAS_2012_with_SI.pdf) _Proceedings of the National Academy of Sciences_ 109, no. 44 (2012): 18215–20.
+Ullman, S., D. Harari, et al. ["From Simple Innate Biases to Complex Visual Concepts." (PDF - 2.5MB)](http://cs.wellesley.edu/~vision/papers/Ullman_PNAS_2012_with_SI.pdf) _Proceedings of the National Academy of Sciences_ 109, no. 44 (2012): 18215–20.
 
-Zhou, B., A. Khosla, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Object Detectors Emerge in Deep Scene CNNs." (PDF - 7.0MB)](http://arxiv.org/pdf/1412.6856.pdf) _International Conference on Learning Representations_ (2015).
+Zhou, B., A. Khosla, et al. ["Object Detectors Emerge in Deep Scene CNNs." (PDF - 7.0MB)](http://arxiv.org/pdf/1412.6856.pdf) _International Conference on Learning Representations_ (2015).
