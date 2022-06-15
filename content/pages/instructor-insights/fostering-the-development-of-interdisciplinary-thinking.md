@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Prof. Ellen Hildreth shares how she and her colleagues
+  help students take an interdisciplinary approach to thinking about computational
+  modeling.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,13 +12,14 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Fostering the Development of Interdisciplinary Thinking
 uid: 8aaec61e-e6fe-9066-e116-b7dbb69aa309
+video_metadata:
+  youtube_id: null
 ---
-
 _In this section, Prof. Ellen Hildreth shares how she and her colleagues help students take an interdisciplinary approach to thinking about computational modeling._
 
 A key aim of the _Brains, Minds, and Machines_ summer course that we try to capture in the graduate seminar is to help students _learn how to think_ about the integration of computational modeling with empirical studies in neuroscience and cognitive science. In the Fall 2015 course, students experienced this interdisciplinary thinking in several ways.
 
-Lectures combined work from all three fields, presented by instructors and guest speakers who bring different areas of expertise to intelligence research. Multiple instructors were always present and some classes were team-taught by faculty from different disciplines, fostering valuable intellectual exchanges. The course, for example, featured a lively discussion between Professors [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Elizabeth Spelke](https://software.rc.fas.harvard.edu/lds/research/spelke/elizabeth-spelke/), and friendly debate between Professor [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) and Postdoctoral Associate [Tomer Ullman](http://www.mit.edu/~tomeru/), both emphasizing critical thinking about the implications of empirical observations and models for the development of intelligence from infancy.
+Lectures combined work from all three fields, presented by instructors and guest speakers who bring different areas of expertise to intelligence research. Multiple instructors were always present and some classes were team-taught by faculty from different disciplines, fostering valuable intellectual exchanges. The course, for example, featured a lively discussion between Professors [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke), and friendly debate between Professor [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) and Postdoctoral Associate [Tomer Ullman](http://www.mit.edu/~tomeru/), both emphasizing critical thinking about the implications of empirical observations and models for the development of intelligence from infancy.
 
 {{< quote "Multiple instructors were always present and some classes were team-taught by faculty from different disciplines, fostering valuable intellectual exchanges." "— Ellen Hildreth" >}}
 
