@@ -1,10 +1,18 @@
 ---
 content_type: page
+description: This page presents a video-based tutorial on running experiments with
+  the Amazon Mechanical Turk service.
 is_media_gallery: true
+learning_resource_types:
+- Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
+parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: Tutorial 6. Amazon Mechanical Turk
 uid: 7e2b7b55-eaa4-6494-579e-611d46d28b3a
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 2e690401-060a-2e44-e74e-0641287f7e11
@@ -17,7 +25,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Graphic of three people's heads in different colors.]({{< resource_file 2f896fc9-5689-288c-eb18-e22964408dd4 >}})
+{{< resource 2f896fc9-5689-288c-eb18-e22964408dd4 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Amazon Mechanical Turk (MTurk) is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk. (Image ® Amazon.com. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))

@@ -1,8 +1,15 @@
 ---
 content_type: video_gallery
+description: This page summarizes the goals and context of the project component in
+  the summer course, and links to a page with more detail on proposed project ideas.
 is_media_gallery: true
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 title: Projects
 uid: 5a9d01c0-741d-24bb-27ad-5970bde6ab28
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 48effe19-8a4c-dae5-a0f4-f070d0d2025f
@@ -26,7 +33,7 @@ To facilitate the design of projects for the 2015 summer course, faculty instruc
 4.  Social intelligence
 5.  Theories of intelligence
 
-The 2015 [Project Ideas Document (PDF)]({{< baseurl >}}/resources/mitres_9_003sum15_proj) has brief summaries of project topics, with pointers to useful literature and other resources.
+The 2015 {{% resource_link fb4bdf4a-945c-b4f1-5150-e89d1d376049 "Project Ideas Document (PDF)" %}} has brief summaries of project topics, with pointers to useful literature and other resources.
 
 Student Project Video Introductions  
 

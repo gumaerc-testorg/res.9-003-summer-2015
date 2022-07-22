@@ -1,8 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 2. Modeling Human Cognition
 uid: 855d4e86-2ca9-e529-74f0-cdef3de9e9c0
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - de3fbf1b-74fe-5371-3ac1-1c18442236e7
@@ -17,7 +23,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and unstable tower of blocks.]({{< resource_file a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}})
+{{< resource a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from "probabilistic programs" in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world. (Image courtesy of Josh Tenenbaum, used with permission.)
@@ -58,16 +64,16 @@ Additional information about the speaker's research and publications can be foun
 
 *   [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
 
-See the [tutorial by Tomer Ulman]({{< baseurl >}}/pages/tutorials/tutorial-5-church-programming) on the implementation of probabilistic models using the Church programming language.
+See the {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "tutorial by Tomer Ulman" %}} on the implementation of probabilistic models using the Church programming language.
 
-Baker, C. L., R. Saxe, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) _Cognition_ 113 (2009): 329–49.
+Baker, C. L., R. Saxe, et al. ["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) _Cognition_ 113 (2009): 329–49.
 
-Battaglia, P. W., J. B. Hamrick, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Simulation as an Engine of Physical Scene Understanding." (PDF - 2.0MB)](http://www.pnas.org/content/pnas/110/45/18327.full.pdf) _Proceedings of the National Academy of Sciences_ 110, no. 45 (2013): 18327–32.
+Battaglia, P. W., J. B. Hamrick, et al. ["Simulation as an Engine of Physical Scene Understanding." (PDF - 2.0MB)](http://www.pnas.org/content/pnas/110/45/18327.full.pdf) _Proceedings of the National Academy of Sciences_ 110, no. 45 (2013): 18327–32.
 
 Goodman, N. D., and J. B. Tenenbaum (e-book). [Probabilistic Models of Cognition](http://probmods.org/).
 
-Kulkarni, T., P. Kohli, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Picture: An Imperative Probabilistic Programming Language for Scene Perception." (PDF - 2.4MB)](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf) _Proceedings IEEE Conference Computer Vision and Pattern Recognition_ (2015): 4390–99.
+Kulkarni, T., P. Kohli, et al. ["Picture: An Imperative Probabilistic Programming Language for Scene Perception." (PDF - 2.4MB)](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf) _Proceedings IEEE Conference Computer Vision and Pattern Recognition_ (2015): 4390–99.
 
-Perfors, A., J. B. Tenenbaum, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Tutorial Introduction to Bayesian Models of Cognitive Development." (PDF)](http://cocosci.berkeley.edu/tom/papers/LabPublications/BayesCogDev.pdf) _Cognition_ 120 (2011): 302–21.
+Perfors, A., J. B. Tenenbaum, et al. ["A Tutorial Introduction to Bayesian Models of Cognitive Development." (PDF)](http://cocosci.berkeley.edu/tom/papers/LabPublications/BayesCogDev.pdf) _Cognition_ 120 (2011): 302–21.
 
-Tenenbaum, J. B., C. Kemp, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How to Grow a Mind: Statistics, Structure, and Abstraction." (PDF)](http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf) _Science_ 331 (2011): 1279–85.
+Tenenbaum, J. B., C. Kemp, et al. ["How to Grow a Mind: Statistics, Structure, and Abstraction." (PDF)](http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf) _Science_ 331 (2011): 1279–85.

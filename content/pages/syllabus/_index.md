@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This page summarizes the course objectives, prerequisites, and structure.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: d5687d1c-8069-f9c0-0d9e-816575ca680a
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -44,7 +49,7 @@ Video lectures by faculty integrate historical background, instruction on comput
 
 ### Tutorials
 
-Tutorials by faculty and postdoctoral associates introduce background material to support lectures and project work. Tutorials vary in their format, integrating a mix of video lectures, handouts, and resources to support hands-on computer work. The tutorials on MATLAB® Programming, Church Programming, and Machine Learning, include extensive programming exercises.
+Tutorials by faculty and postdoctoral associates introduce background material to support lectures and project work. Tutorials vary in their format, integrating a mix of video lectures, handouts, and resources to support hands-on computer work. The tutorials on MATLAB{{< sup "®" >}} Programming, Church Programming, and Machine Learning, include extensive programming exercises.
 
 ### Readings
 
@@ -52,7 +57,7 @@ Readings for each unit and tutorial provide a combination of useful background t
 
 ### Project Work
 
-Both the Brains, Minds and Machines summer course and the associated MIT course _9.523 Aspects of a Computational Theory of Intelligence_ (described in the [Instructor Insights]({{< baseurl >}}/pages/instructor-insights) section) incorporate an extended research-like project experience carried out individually or in small groups. Descriptions of sample projects related to each unit are provided. For some projects, there are additional resources such as readings, code, and data. Video presentations highlight a few of the summer course projects.
+Both the Brains, Minds and Machines summer course and the associated MIT course _9.523 Aspects of a Computational Theory of Intelligence_ (described in the {{% resource_link 3c41f493-e709-0029-8198-eb92c4d7a30d "Instructor Insights" %}} section) incorporate an extended research-like project experience carried out individually or in small groups. Descriptions of sample projects related to each unit are provided. For some projects, there are additional resources such as readings, code, and data. Video presentations highlight a few of the summer course projects.
 
 Acknowledgements
 ----------------

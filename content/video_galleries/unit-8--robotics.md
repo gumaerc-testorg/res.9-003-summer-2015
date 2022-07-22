@@ -1,8 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 8. Robotics
 uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 630776bc-0855-3bb8-bcd7-99652506c9e4
@@ -21,7 +27,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of a mobile robot  with long "whiskers" protruding to the sides, brushing the whiskers on a person's hand.]({{< resource_file 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}})
+{{< resource 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain. (Image courtesy of Martin Pearson and Ben Mitchinson, used with permission.)
@@ -73,18 +79,18 @@ Additional information about the speakers' research and publications can be foun
 
 Learn more about the iCub project, including recent publications, at the [iCub humanoid robot project site](https://www.iit.it/research/lines/icub) within the website for the [Italian Institute of Technology](https://www.iit.it/).
 
-Fallon, M., S. Kuindersma, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Architecture for Online Affordance-Based Perception and Whole-Body Planning." (PDF - 21.5MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Fallon14.pdf) _Journal of Field Robotics_ 32, no. 2 (2014): 229–54.
+Fallon, M., S. Kuindersma, et al. ["An Architecture for Online Affordance-Based Perception and Whole-Body Planning." (PDF - 21.5MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Fallon14.pdf) _Journal of Field Robotics_ 32, no. 2 (2014): 229–54.
 
 Grant, R. A., A. L. Sperber, et al. "[The Role of Orienting in Vibrissal Touch Sensing](http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00039/full)." _Frontiers in Behavioral Neuroscience_ 6, no. 39 (2012): 1–12.
 
-Kuindersma, S., R. Deits, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot." (PDF - 30.6MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Kuindersma14.pdf) _Autonomous Robots_ 40, no. 3 (2016): 429–55.
+Kuindersma, S., R. Deits, et al. ["Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot." (PDF - 30.6MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Kuindersma14.pdf) _Autonomous Robots_ 40, no. 3 (2016): 429–55.
 
-Leonard, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Perception-Driven Autonomous Urban Vehicle." (PDF - 1.8MB)](http://people.csail.mit.edu/teller/pubs/LeonardEtAlJFR2008.pdf) _Journal of Field Robotics_ 25, no. 10 (2008): 724–74. (28 authors)
+Leonard, J. ["A Perception-Driven Autonomous Urban Vehicle." (PDF - 1.8MB)](http://people.csail.mit.edu/teller/pubs/LeonardEtAlJFR2008.pdf) _Journal of Field Robotics_ 25, no. 10 (2008): 724–74. (28 authors)
 
-Oberlin, J., and S. Tellex. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Autonomously Acquiring Instance-Based Object Models from Experience." (PDF - 1.2MB)](http://h2r.cs.brown.edu/wp-content/uploads/2015/08/oberlin15isrr.pdf) _International Symposium on Robotics Research_ (2015).
+Oberlin, J., and S. Tellex. ["Autonomously Acquiring Instance-Based Object Models from Experience." (PDF - 1.2MB)](http://h2r.cs.brown.edu/wp-content/uploads/2015/08/oberlin15isrr.pdf) _International Symposium on Robotics Research_ (2015).
 
-Pearson, M. J., C. Fox, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot." (PDF - 2.0MB)](http://www.abrg.group.shef.ac.uk/!DATA/attachment/0267.tSLAM2_vs1.3-final-submission-to-ICRA.pdf) _Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe_ (2013): 586–92.
+Pearson, M. J., C. Fox, et al. ["Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot." (PDF - 2.0MB)](http://www.abrg.group.shef.ac.uk/!DATA/attachment/0267.tSLAM2_vs1.3-final-submission-to-ICRA.pdf) _Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe_ (2013): 586–92.
 
-Tellex, S., R. A. Knepper, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Asking for Help Using Inverse Semantics." (PDF - 2.6MB)](http://www.roboticsproceedings.org/rss10/p24.pdf) _Proceedings Robotics: Science and Systems_ (Berkeley, CA) (2014).
+Tellex, S., R. A. Knepper, et al. ["Asking for Help Using Inverse Semantics." (PDF - 2.6MB)](http://www.roboticsproceedings.org/rss10/p24.pdf) _Proceedings Robotics: Science and Systems_ (Berkeley, CA) (2014).
 
 Whelan, T., M. Kaess, et al. "[Real-Time Large-Scale Dense RGB-D SLAM with Volumetric Fusion](http://dspace.mit.edu/handle/1721.1/97583)." _The International Journal of Robotics Research_ 34, no. 4–5 (2015): 598–626.

@@ -1,8 +1,14 @@
 ---
 content_type: video_gallery
+description: This page summarizes the unit topic and activities, and links to lecture
+  videos, notes and further study resources.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Unit 7. Audition and Speech
 uid: 67de5f18-8df4-42c1-f171-08d83925c7a8
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - b1cdcd1c-0ff5-0f9c-498b-e92f74007790
@@ -20,7 +26,7 @@ Unit Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Two pairs of plots, x-axis=modulation channel and y-axis=cochlear channel, showing differences between the sounds of insects and waves.]({{< resource_file c184198a-ec04-736f-c5ee-84b08da84cbd >}})
+{{< resource c184198a-ec04-736f-c5ee-84b08da84cbd >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -73,16 +79,16 @@ Additional information about the speakers' research and publications can be foun
 *   [Hynek Hermansky, Johns Hopkins University](http://www.clsp.jhu.edu/faculty-pages/hynek/)
 *   [Dan Yamins, MIT](http://web.mit.edu/yamins/www/)
 
-Hermansky, H., J. R. Cohen, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Perceptual Properties of Current Speech Recognition Technology." (PDF - 1.7MB)](https://pdfs.semanticscholar.org/74d6/361cebb53002863fd32b161190bd2dd63b11.pdf) _Proceedings of the IEEE_ 101, no. 9 (2013): 1968–85.
+Hermansky, H., J. R. Cohen, et al. ["Perceptual Properties of Current Speech Recognition Technology." (PDF - 1.7MB)](https://pdfs.semanticscholar.org/74d6/361cebb53002863fd32b161190bd2dd63b11.pdf) _Proceedings of the IEEE_ 101, no. 9 (2013): 1968–85.
 
-McDermott, J. H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Cocktail Party Problem." (PDF)](http://mcdermottlab.mit.edu/papers/McDermott_2010_cocktail_party_problem.pdf) _Current Biology_ 19, no. 22 (2009): R1024–27.
+McDermott, J. H. ["The Cocktail Party Problem." (PDF)](http://mcdermottlab.mit.edu/papers/McDermott_2010_cocktail_party_problem.pdf) _Current Biology_ 19, no. 22 (2009): R1024–27.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Audition." (PDF - 1.1MB)](http://cs.wellesley.edu/~vision/papers/McDermott_2013_Audition.pdf) In _Oxford Handbook of Cognitive Neuroscience Two Volume Set (Oxford Library of Psychology)_, Edited by K. N. Ochsner and S. Kosslyn. Oxford University Press, 2013. ISBN: 9780195381597.
+———. ["Audition." (PDF - 1.1MB)](http://cs.wellesley.edu/~vision/papers/McDermott_2013_Audition.pdf) In _Oxford Handbook of Cognitive Neuroscience Two Volume Set (Oxford Library of Psychology)_, Edited by K. N. Ochsner and S. Kosslyn. Oxford University Press, 2013. ISBN: 9780195381597.
 
-McDermott, J. H., M. Schemitsch, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Summary Statistics in Auditory Perception." (PDF - 2.9MB)](http://mcdermottlab.mit.edu/papers/McDermott_Schemitsch_Simoncelli_2013_summary_statistics.pdf) _Nature Neuroscience_ 16, no. 4 (2013): 493–98.
+McDermott, J. H., M. Schemitsch, et al. ["Summary Statistics in Auditory Perception." (PDF - 2.9MB)](http://mcdermottlab.mit.edu/papers/McDermott_Schemitsch_Simoncelli_2013_summary_statistics.pdf) _Nature Neuroscience_ 16, no. 4 (2013): 493–98.
 
 McDermott, J. H., and E. P. Simoncelli. "[Sound Texture Perception via Statistics of the Auditory Periphery: Evidence from Sound Synthesis](https://doi.org/10.1016/j.neuron.2011.06.032)." _Neuron_ 71 (2011): 926–40.
 
-Norman-Haignere, S., N. Kanwisher, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition." (PDF - 10.3MB)](http://web.mit.edu/bcs/nklab/media/pdfs/SVNH_NGK_JMD_2015.pdf) _Neuron_ 88, no. 6 (2015): 1281–96.
+Norman-Haignere, S., N. Kanwisher, et al. ["Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition." (PDF - 10.3MB)](http://web.mit.edu/bcs/nklab/media/pdfs/SVNH_NGK_JMD_2015.pdf) _Neuron_ 88, no. 6 (2015): 1281–96.
 
 Yamins, D., and J. J. DiCarlo. "[Using Goal-Driven Deep Learning Models to Understand Sensory Cortex](http://dx.doi.org/10.1038/nn.4244)." _Nature Neuroscience_ 19, no. 3 (2016): 356–65.

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This page lists the instructors and specific topics for each class and
+  tutorial session.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Calendar
 uid: cd8182dc-2721-46f0-915a-6f72ae89f59c
+video_metadata:
+  youtube_id: null
 ---
 
 Course Schedule
@@ -22,7 +28,7 @@ P = Panel discussion
 
 D = Debate
 
-See the [Instructors]({{< baseurl >}}/pages/syllabus/course-instructors-guest-speakers-and-icub-team) page for a list of each instructor's institutional and department affiliation.
+See the {{% resource_link 653d64c8-ddb9-eccf-38be-70b1c01c8ea3 "Instructors" %}} page for a list of each instructor's institutional and department affiliation.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -711,7 +717,7 @@ T2
 Daniel Zysman
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® programming (\* with additional content development by Ellen Hildreth)
+MATLAB{{< sup "®" >}} programming (\* with additional content development by Ellen Hildreth)
 {{< tdclose >}}
 
 {{< trclose >}}

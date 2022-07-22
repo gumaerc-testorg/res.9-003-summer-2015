@@ -1,10 +1,18 @@
 ---
 content_type: page
+description: This page presents a video-based tutorial on using the Church programming
+  language.
 is_media_gallery: true
+learning_resource_types:
+- Tutorials
+ocw_type: SupplementalResourceSection
 parent_title: Tutorials
+parent_type: SupplementalResourceSection
 parent_uid: 1991b27f-a447-8dc0-a6a2-79748088784f
 title: 'Tutorial 5: Church Programming'
 uid: 32907aca-b7d5-1972-49b3-b36fb769ce08
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 3953a4fd-a909-910d-c0f2-697c6200da75
@@ -18,7 +26,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and collapsing unstable tower of blocks.]({{< resource_file 20b84384-fbe1-fff3-7d7e-31991157e720 >}})
+{{< resource 20b84384-fbe1-fff3-7d7e-31991157e720 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of blocks, may derive from "probabilistic programs" that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Such programs can be implemented and tested using probabilistic programming languages such as the Church language. (Image courtesy of Josh Tenenbaum, used with permission.)
@@ -36,7 +44,7 @@ Unit Activities
 ### Useful Background
 
 *   Introductions to probability and probabilistic approaches to modeling behavior
-*   [Video lectures]({{< baseurl >}}/video_galleries/unit-2.-modeling-human-cognition) on computational models of cognition by Josh Tenenbaum
+*   {{% resource_link 855d4e86-2ca9-e529-74f0-cdef3de9e9c0 "Video lectures" %}} on computational models of cognition by Josh Tenenbaum
 *   Introduction to computer programming
 
 ### Videos and Slides
@@ -46,7 +54,7 @@ Unit Activities
 
 ### Code
 
-[Church\_examples (RTF)]({{< baseurl >}}/resources/church_ex) contains the code examples described in the two-part tutorial video. These examples can be executed by copying the code into one of the following Church programming environments. Code can also be written from scratch and modified in these environments:
+{{% resource_link 3a08df29-46c9-1378-cf03-d672fec3e037 "Church\_examples (RTF)" %}} contains the code examples described in the two-part tutorial video. These examples can be executed by copying the code into one of the following Church programming environments. Code can also be written from scratch and modified in these environments:
 
 1.  First edition of the [Probabilistic Models of Cognition](http://v1.probmods.org/) electronic text, cited in the section below on _Future Study_, which includes a separate [Play space](http://v1.probmods.org/play-space.html) where code can be copied, modified, and executed
 2.  [webchurch engine](https://github.com/probmods/webchurch) that runs Church code in a web browser, which is available on GitHub for download onto your local computer

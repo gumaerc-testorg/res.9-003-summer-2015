@@ -1,11 +1,19 @@
 ---
 content_type: page
+description: In this section, Prof. Ellen Hildreth shares how she and her colleagues
+  maintain intellectual coherence in a course that explores a wide range of topics
+  related to intelligence.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3c41f493-e709-0029-8198-eb92c4d7a30d
 title: Maintaining Intellectual Coherence across a Wide Range of Topics Related to
   Intelligence
 uid: c377690a-06a5-9c86-78a3-5e5ec8379fbb
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Prof. Ellen Hildreth shares how she and her colleagues maintain intellectual coherence in a course that explores a wide range of topics related to intelligence._
