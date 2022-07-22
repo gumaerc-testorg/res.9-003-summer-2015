@@ -14,6 +14,7 @@ image_metadata:
     gorilla; middle row "average" includes a grocery store produce section; bottom
     "forgettable" includes generic landscapes.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 4. Visual Intelligence
 parent_type: SupplementalResourceSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 Legend: What makes an image memorable? Using insights from perceptual experiments, fMRI studies, and computational modeling, Aude Oliva has identified some key factors that determine visual memorability.
-

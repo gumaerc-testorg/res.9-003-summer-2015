@@ -5,6 +5,7 @@ description: This resource contains information regarding Auditory perception in
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/95f8a9b8599f13e14474eb034e50cf3e_MITRES_9_003SUM15_Lec7-4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 7. Audition and Speech
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding Auditory perception in speech technology.
-

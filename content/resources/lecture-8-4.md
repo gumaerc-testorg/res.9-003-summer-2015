@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[iCub: An open source platform for research in robotics & AI (PDF
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Discussing the open source, humanoid robot called iCub. Covers mechanics, sensors, construction, image recognition, sensory perception, body dynamics.
 
 **Instructor:** Giorgio Metta
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Integrating insights from human auditory perception and speech generation into the development of speech production and recognition technology. Dealing with the effects of sound distortion from predictable and unpredictable sources of noise.
 
 **Instructor:** Hynek Hermansky
-
-
 

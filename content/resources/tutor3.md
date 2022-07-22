@@ -16,6 +16,7 @@ image_metadata:
   credit: ''
   image-alt: An array of handwritten digits accompanied by a 3-D scatter plot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tutorial 3. Machine Learning
 parent_type: SupplementalResourceSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 Visualization of the results of principal components analysis applied to high-dimensional data capturing visual properties of handwritten digits. The data was reduced to three dimensions that capture most of the variation in the original data, roughly segregating the data into the corresponding digits, as portrayed by the different colors of the data points.
-

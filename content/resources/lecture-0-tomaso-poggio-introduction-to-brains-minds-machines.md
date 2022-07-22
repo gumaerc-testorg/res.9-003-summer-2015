@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Introduction to the study of intelligence in brains, minds, and machines
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Introduction to the interdisciplinary study of intelligence, from recent advances in AI to an understanding of human intelligence and the brain.
 
 **Instructor:** Tomaso Poggio
-
-
 

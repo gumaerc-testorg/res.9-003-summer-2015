@@ -5,6 +5,7 @@ description: "\r\nThis is a special file related spatial processing in the visua
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3c115c1208c9a7158cac8983b4250741_imageproc_sol.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
 ---
 
 This is a special file related spatial processing in the visual pathway solutions.
-

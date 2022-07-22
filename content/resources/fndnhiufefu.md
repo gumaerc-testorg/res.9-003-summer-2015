@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/ee89f10f37621a93a7c347b7c56be45a_FndNHiuFeFU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Neural circuits underlying object recognition. Feedforward processing in the ventral visual stream from the retina to inferior temporal cortex. Models to decode IT signals to infer object identity and predict human recognition behavior in cluttered scenes.
 
 **Instructor:** James DiCarlo
-
-
 

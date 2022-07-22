@@ -16,6 +16,7 @@ image_metadata:
     lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal
     stream goes toward the top of the brain.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tutorial 1. Basic Neuroscience
 parent_type: SupplementalResourceSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 The two-streams hypothesis distinguishes two processing pathways in the brain: the ventral stream (also known as the “what pathway”) shown in purple and the dorsal stream (also known as the “where” pathway”) shown in green.
-

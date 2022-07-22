@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Machine learning: A basic toolkit (PDF - 3.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut3)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Machine learning methods used in intelligence science & data science. Basic concepts & theory of various learning methods, and applications to different kinds of problems. Hands-on labs with MATLAB® explore practical behaviors of machine learning methods.
 
 **Instructor:** Lorenzo Rosasco
-
-
 

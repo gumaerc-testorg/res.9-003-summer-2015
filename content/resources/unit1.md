@@ -14,6 +14,7 @@ image_metadata:
   image-alt: Diagram of primate brain with colored patches highlighting regions associated
     with different facial orientations.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 1. Neural Circuits of Intelligence
 parent_type: SupplementalResourceSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 Work by Winrich Freiwald and colleagues reveals a network of “face patches” in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. Image courtesy of Winrich Friewald, used with permission.
-

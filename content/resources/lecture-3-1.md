@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Behavioral methods to study cognitive development in infants, probing infants’ evolving understanding of objects and their physical behaviors, and understanding of agents who engage in goal-directed activity and initiate social interactions.
 
 **Instructor:** Liz Spelke
-
-
 

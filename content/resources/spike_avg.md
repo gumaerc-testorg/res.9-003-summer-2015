@@ -5,6 +5,7 @@ description: "\r\nThis is a special file related spike-triggered averaging of ne
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/cb79871ee4f14cd85caa452f4a859f05_spike_avg.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial 2. MATLAB Programming
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
 ---
 
 This is a special file related spike-triggered averaging of neural responses: Handout and data.
-

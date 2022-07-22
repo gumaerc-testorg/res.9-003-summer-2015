@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[From language to vision and back again (PDF - 2.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec5-2)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Using higher level knowledge to improve object detection, language-vision model that simultaneously processes sentences and recognizes image objects and events, performing tasks like image/video retrieval, generating descriptions, and question answering.
 
 **Instructor:** Andrei Barbu
-
-
 

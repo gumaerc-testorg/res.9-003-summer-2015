@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: No slides are provided for this session.
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Much like scientists, children make judgements about the cost and value of information, learn from statistical evidence, use interpretations affected by belief, explore ambiguity, isolate variables, and make generalizations dependent on the evidence.
 
 **Instructor:** Laura Schulz
-
-
 

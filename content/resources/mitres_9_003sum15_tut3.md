@@ -4,6 +4,7 @@ description: 'This file contains information regarding machine learning: A basic
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/ea0087433e52985b0e8d4a0de6411774_MITRES_9_003SUM15_tut3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial 3. Machine Learning
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding machine learning: A basic toolkit.
-

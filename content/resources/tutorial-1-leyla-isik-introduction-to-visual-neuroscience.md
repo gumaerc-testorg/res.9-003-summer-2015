@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Basic neuroscience (PDF - 1.1MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Structure of neurons and how they communicate information, brain anatomy and dorsal/ventral visual pathways, and methods for probing the behavior of neural circuits. Processing along the ventral pathway involved in visual recognition.
 
 **Instructor:** Leyla Isik
-
-
 

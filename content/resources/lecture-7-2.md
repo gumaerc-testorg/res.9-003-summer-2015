@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Functional specialization in human auditory cortex (PDF - 3.1MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec7-3)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** A data-driven approach to understanding the structure of human auditory cortex, application of matrix decomposition and Independent Component Analysis to fMRI data reveals regions specialized for sound categories such as music and speech.
 
 **Instructor:** Nancy Kanwisher
-
-
 

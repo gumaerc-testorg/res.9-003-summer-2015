@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Alon Baram and Laurie Bayet build upon a model of visual recognition that learns to identify digits and faces from novel viewpoints, using limited training examples of the sort that an infant may experience as it learns to recognize new faces.
 
 **Speaker:** Alon Baram and Laurie Bayet
-
-
 

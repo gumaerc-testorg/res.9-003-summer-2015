@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Logo of Center for Brains, Minds, and Machines, consisting of 3 overlapping
     patterned circles.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction
 parent_type: SupplementalResourceSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Legend: The Center for Brains, Minds, and Machines is dedicated to the study of intelligence - how the brain produces intelligent behavior and how this can be replicated in machines.
-

@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: Graphic of three people's heads in different colors.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tutorial 6. Amazon Mechanical Turk
 parent_type: SupplementalResourceSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Amazon Mechanical Turk is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk.
-

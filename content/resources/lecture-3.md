@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Cognition in infancy (PDF - 2.2MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec3-1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Behavioral methods to study cognitive development in infants, probing infants’ evolving understanding of objects and their physical behaviors, and understanding of agents who engage in goal-directed activity and initiate social interactions.
 
 **Instructor:** Liz Spelke
-
-
 

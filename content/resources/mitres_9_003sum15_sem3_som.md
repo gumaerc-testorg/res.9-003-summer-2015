@@ -5,6 +5,7 @@ description: This file contains information regarding infants' sensitivity to co
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d655fd70d1880f79aed14110cee90d41_MITRES_9_003SUM15_sem3_som.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 3. Development of Intelligence
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding infants' sensitivity to cost and benefit.
-

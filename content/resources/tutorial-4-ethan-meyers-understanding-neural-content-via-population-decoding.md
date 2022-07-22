@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Understanding neural content and coding using population decoding
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Population decoding is a powerful way to analyze neural data - from single cell recordings, fMRI, MEG, EEG, etc - to understand the information it contains and how it is encoded. Case study of visual object recognition in primate visual cortex.
 
 **Instructor:** Ethan Meyers
-
-
 

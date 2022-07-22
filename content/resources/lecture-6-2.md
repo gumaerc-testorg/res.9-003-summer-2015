@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[MVPA: Opening a new window on the mind via fMRI (PDF - 1.9MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec6-3)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Theory of Mind, thinking about others’ thoughts, using false belief tasks in moral judgments, cognitive development of belief perception and Theory of Mind, the role of the rTPJ, Multi Voxel Pattern Analysis of fMRI data with Haxby-style correlations.
 
 **Instructor:** Rebecca Saxe
-
-
 

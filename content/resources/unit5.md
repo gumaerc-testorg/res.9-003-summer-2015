@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Still photo of a tall blue bin in center, with a man to the left standing
     with a folding chair and a man to the right with a backpack.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
@@ -26,4 +27,3 @@ video_metadata:
   youtube_id: null
 ---
 How do we recognize physical events in a dynamic visual scene? Andrei Barbu and his colleagues have developed a system that can generate a sentence like "The person to the right of the bin picked up the backpack" from a video clip portraying this action.
-

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: See previous session.
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Using MVPA to study the neural mechanisms underlying thinking about thoughts (Theory of Mind) and moral judgments, while assessing variation between within-condition and between-condition correlations in fMRI data.
 
 **Instructor:** Rebecca Saxe
-
-
 

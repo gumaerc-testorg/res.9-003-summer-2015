@@ -5,6 +5,7 @@ description: 'This resource contains information regarding brains, minds and mac
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/e55ecdf704abcefde3e67340a0627118_MITRES_9_003SUM15_Lec8-6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding brains, minds and machines summer course: Lec8-6.
-

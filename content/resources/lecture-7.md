@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Introduction to biological audition (PDF - 3.9MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_lec7-1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** The study of sound textures and high level goals of auditory processing. Anatomy and structure of the auditory system, frequency tuning of cochlear transduction, perception of real-world textures using synthesized textures with similar statistics.
 
 **Instructor:** Josh McDermott
-
-
 

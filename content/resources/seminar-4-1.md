@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\uFEFF[Computer vision, wearable computing, and the future of transportation\
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Using computer vision to develop transportation technology. Covers the technology and function of autonomous vehicles, visual recognition and processing, collision avoidance and other obstacles to achieving fully autonomous, self driving vehicles.
 
 **Instructor:** Amnon Shashua
-
-
 

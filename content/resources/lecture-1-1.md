@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Computational roles of feedback and recurrent connections in visual
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Neural computation and methods to study visual processing in the brain. Models of single neurons and neural circuits, hierarchical cortical architecture, feedforward processing, role of feedback signals in V1 cells, pattern completion, and visual search.
 
 **Instructor:** Gabriel Kreiman
-
-
 

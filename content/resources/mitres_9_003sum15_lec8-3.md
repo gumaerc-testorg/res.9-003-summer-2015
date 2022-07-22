@@ -5,6 +5,7 @@ description: This resource contains information regarding Layered control archit
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/473ae671b3db5c25b922032ba3fa771c_MITRES_9_003SUM15_Lec8-3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 8. Robotics
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding Layered control architecture in mammals and robots.
-

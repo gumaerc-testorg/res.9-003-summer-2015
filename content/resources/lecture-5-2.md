@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[The story understanding story: The truth about human intelligence
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The strong story hypothesis that the ability to tell, understand, and recombine stories distinguishes human and primate intelligence, historical perspective on AI and thinking machines, modelling story understanding in the Genesis system.
 
 **Instructor:** Patrick Winston
-
-
 

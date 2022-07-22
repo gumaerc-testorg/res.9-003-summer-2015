@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Neural networks in the brain continually adapt their form and function to changing circumstances. Nick Cheney explores how this neuroplasticity can be modeled in deep learning networks, yielding stable learning behavior in dynamically changing networks.
 
 **Speaker:** Nick Cheney
-
-
 

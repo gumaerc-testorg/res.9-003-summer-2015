@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[A mind in the fly brain (PDF - 5.2MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_sem1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Modeling neural processes in the mushroom bodies of the insect brain to understand how flies learn to recognize scents. Training flies with classical conditioning with positive and negative reinforcement to study olfactory memory and behavior.
 
 **Instructor:** Larry Abbott
-
-
 

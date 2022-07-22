@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Debate on theories, imagination, and the generation of ideas (PDF
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Speakers debate what makes a good theory of the world, the potential role of stochastic search in theory formation, goal-oriented hypothesis generation and imagination, from the perspective of computational models and experiments in child development.
 
 **Instructors:** Tomer Ullman and Laura Schulz
-
-
 

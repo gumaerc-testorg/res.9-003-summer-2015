@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Church tutorial (PDF - 1.3MB)](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/resources/mitres_9_003sum15_tut5)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Learn the Church programming language, which facilitates the implementation and testing of generative models of physical and social worlds that enable probabilistic inferences about objects, agents and events.
 
 **Instructor:**Tomer Ullman
-
-
 

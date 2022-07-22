@@ -17,6 +17,7 @@ image_metadata:
   image-alt: "Diagram with photos of three types of stacked objects\u2014dishes in\
     \ a sink, stable tower of blocks and unstable tower of blocks."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 2. Modeling Human Cognition
 parent_type: SupplementalResourceSection
@@ -28,4 +29,3 @@ video_metadata:
   youtube_id: null
 ---
 Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from “probabilistic programs” in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world.
-

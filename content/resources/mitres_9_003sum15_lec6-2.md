@@ -5,6 +5,7 @@ description: 'This resource contains information regarding brains, minds and mac
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/2961c3bca4f6e4443931b5336b4bfde6_MITRES_9_003SUM15_lec6-2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 6. Social Intelligence
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding brains, minds and machines summer course: Lec6-2.
-

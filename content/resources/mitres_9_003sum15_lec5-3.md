@@ -5,6 +5,7 @@ description: 'This resource contains information regarding brains, minds and mac
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/700e930d9a13bb0e5f9fc1b1f39578a3_MITRES_9_003SUM15_Lec5-3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit 5. Vision and Language
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding brains, minds and machines summer course: Lec5-3.
-

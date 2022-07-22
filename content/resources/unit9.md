@@ -16,6 +16,7 @@ image_metadata:
     with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally
     "AIT."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unit 9. Theory of Intelligence
 parent_type: SupplementalResourceSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds.
-
