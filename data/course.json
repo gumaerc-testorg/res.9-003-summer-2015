@@ -50,7 +50,7 @@
     "website": "res-9-003-brains-minds-and-machines-summer-course-summer-2015"
   },
   "course_title": "Brains, Minds and Machines Summer Course",
-  "course_description": "This course explores the problem of intelligence\u2014its nature, how it is produced by the brain and how it could be replicated in machines\u2014using an approach that integrates cognitive science, which studies the mind; neuroscience, which studies the brain; and computer science and artificial intelligence, which study the computations needed to develop intelligent machines. Materials are drawn from the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) offered annually at the Marine Biological Laboratory in Woods Hole, MA, taught by faculty affiliated with the [Center for Brains, Minds and Machines](http://cbmm.mit.edu) headquartered at MIT. Elements of the summer course are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._\n\nContributors\n------------\n\nThis course includes the contributions of many instructors, guest speakers, and a team of iCub researchers. See the [complete list of contributors](pages/syllabus/course-instructors-guest-speakers-and-icub-team).\n",
+  "course_description": "This course explores the problem of intelligence\u2014its nature, how it is produced by the brain and how it could be replicated in machines\u2014using an approach that integrates cognitive science, which studies the mind; neuroscience, which studies the brain; and computer science and artificial intelligence, which study the computations needed to develop intelligent machines. Materials are drawn from the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) offered annually at the Marine Biological Laboratory in Woods Hole, MA, taught by faculty affiliated with the [Center for Brains, Minds and Machines](http://cbmm.mit.edu) headquartered at MIT. Elements of the summer course are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._\n\nContributors\n------------\n\nThis course includes the contributions of many instructors, guest speakers, and a team of iCub researchers. See the [complete list of contributors](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/pages/syllabus/course-instructors-guest-speakers-and-icub-team).\n",
   "department_numbers": [
     "RES"
   ],
@@ -64,8 +64,10 @@
     "Other Video",
     "Lecture Videos",
     "Lecture Notes",
-    "Projects"
+    "Projects",
+    "Instructor Insights"
   ],
-  "site_uid": "d57d884f-b5f8-4a1c-891d-7138cf2239f1",
+  "site_uid": "ee8e732d-0500-4ad4-839b-e978cc5174ba",
+  "short_id": "res.9-003-summer-2015",
   "title": "Course Metadata"
 }
