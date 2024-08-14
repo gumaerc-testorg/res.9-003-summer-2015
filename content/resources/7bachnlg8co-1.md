@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/7e2836880c2c203958f88a2bcc94e6d9_7BAChnLg8Co.pdf
+file_size: 49418
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

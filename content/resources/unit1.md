@@ -5,6 +5,7 @@ description: "Work by Winrich Freiwald and colleagues reveals a network of \u201
   \ increasingly complex stages of face recognition. Image courtesy of Winrich Friewald,\
   \ used with permission."
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/cf903a5cb45b6b69103afc1c623af95f_unit1.jpg
+file_size: 67688
 file_type: image/jpeg
 image_metadata:
   caption: "Work by Winrich Freiwald and colleagues reveals a network of \u201Cface\

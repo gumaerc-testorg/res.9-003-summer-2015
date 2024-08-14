@@ -3,6 +3,7 @@ content_type: resource
 description: "\r\nThis is a special file related integrate and fire model of neural\
   \ activation solutions."
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/c06d530a07688ecca294e621a9a84687_integrate_fire_sol.zip
+file_size: 5284
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
