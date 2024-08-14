@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This page summarizes the unit topic and activities, and links to lecture
   videos, notes and further study resources.
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
@@ -16,22 +17,13 @@ videos:
   - a5af45f7-dc8d-aac0-d58b-abff028ed704
   website: res-9-003-brains-minds-and-machines-summer-course-summer-2015
 ---
+## Unit Overview
 
-Unit Overview
--------------
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}}
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="a3dd6144-57fb-ef82-c3c8-cc776d7db243" >}}
+{{< tdclose >}}{{< tdopen >}}
 Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from "probabilistic programs" in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world. (Image courtesy of Josh Tenenbaum, used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 How do we make intelligent inferences about objects, events, and relations in the world, from a quick glance? From infancy to adulthood, how do we learn new concepts and reason about novel situations, from little experience? In this unit, Josh Tenenbaum introduces a framework for addressing these questions based on the creation of generative models of the physical and social worlds that enable probabilistic inference about objects and events.
 
@@ -43,37 +35,34 @@ The framework described in Parts 1 and 2 has limitations when to comes to common
 
 Part 3 illustrates the idea of model building through the creation of probabilistic programs, through examples of intuitive physics, inferring properties of a human face or body from a single visual image, and making inferences about planning, beliefs, and desires.
 
-Unit Activities
----------------
+## Unit Activities
 
 ### Useful Background
 
-*   Introduction to cognitive science
-*   Probability and statistics
-*   Introduction to machine learning, including probabilistic inference methods
+- Introduction to cognitive science
+- Probability and statistics
+- Introduction to machine learning, including probabilistic inference methods
 
 ### Videos and Slides
 
 {{< video-gallery "855d4e86-2ca9-e529-74f0-cdef3de9e9c0" >}}
 
-
-Further Study
--------------
+## Further Study
 
 Additional information about the speaker's research and publications can be found at his website:
 
-*   [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
+- [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
 
-See the {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "tutorial by Tomer Ulman" %}} on the implementation of probabilistic models using the Church programming language.
+See the {{% resource_link "32907aca-b7d5-1972-49b3-b36fb769ce08" "tutorial by Tomer Ulman" %}} on the implementation of probabilistic models using the Church programming language.
 
-Baker, C. L., R. Saxe, et al. ["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) _Cognition_ 113 (2009): 329–49.
+Baker, C. L., R. Saxe, et al. ["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) *Cognition* 113 (2009): 329–49.
 
-Battaglia, P. W., J. B. Hamrick, et al. ["Simulation as an Engine of Physical Scene Understanding." (PDF - 2.0MB)](http://www.pnas.org/content/pnas/110/45/18327.full.pdf) _Proceedings of the National Academy of Sciences_ 110, no. 45 (2013): 18327–32.
+Battaglia, P. W., J. B. Hamrick, et al. ["Simulation as an Engine of Physical Scene Understanding." (PDF - 2.0MB)](http://www.pnas.org/content/pnas/110/45/18327.full.pdf) *Proceedings of the National Academy of Sciences* 110, no. 45 (2013): 18327–32.
 
 Goodman, N. D., and J. B. Tenenbaum (e-book). [Probabilistic Models of Cognition](http://probmods.org/).
 
-Kulkarni, T., P. Kohli, et al. ["Picture: An Imperative Probabilistic Programming Language for Scene Perception." (PDF - 2.4MB)](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf) _Proceedings IEEE Conference Computer Vision and Pattern Recognition_ (2015): 4390–99.
+Kulkarni, T., P. Kohli, et al. ["Picture: An Imperative Probabilistic Programming Language for Scene Perception." (PDF - 2.4MB)](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf) *Proceedings IEEE Conference Computer Vision and Pattern Recognition* (2015): 4390–99.
 
-Perfors, A., J. B. Tenenbaum, et al. ["A Tutorial Introduction to Bayesian Models of Cognitive Development." (PDF)](http://cocosci.berkeley.edu/tom/papers/LabPublications/BayesCogDev.pdf) _Cognition_ 120 (2011): 302–21.
+Perfors, A., J. B. Tenenbaum, et al. "[A Tutorial Introduction to Bayesian Models of Cognitive Development." (PDF)](https://cocosci.princeton.edu/tom/papers/LabPublications/BayesCogDev.pdf) *Cognition* 120 (2011): 302–21.
 
-Tenenbaum, J. B., C. Kemp, et al. ["How to Grow a Mind: Statistics, Structure, and Abstraction." (PDF)](http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf) _Science_ 331 (2011): 1279–85.
+Tenenbaum, J. B., C. Kemp, et al. ["How to Grow a Mind: Statistics, Structure, and Abstraction." (PDF)](https://cocosci.princeton.edu/tom/papers/LabPublications/GrowMind.pdf) *Science* 331 (2011): 1279–85.

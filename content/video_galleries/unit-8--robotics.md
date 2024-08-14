@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This page summarizes the unit topic and activities, and links to lecture
   videos, notes and further study resources.
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
@@ -20,22 +21,13 @@ videos:
   - e7a5e8e0-a6c2-4c02-57f9-5d95b22ec061
   website: res-9-003-brains-minds-and-machines-summer-course-summer-2015
 ---
+## Unit Overview
 
-Unit Overview
--------------
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}}
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="0c5eb8f4-ce53-cf75-8e89-923a1e652046" >}}
+{{< tdclose >}}{{< tdopen >}}
 Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain. (Image courtesy of Martin Pearson and Ben Mitchinson, used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 The challenges of building robots that can sense the environment, navigate through the world, manipulate objects, and learn from experience, may shed light on how these tasks are performed by biological systems. A deeper understanding of sensory-motor processing in biological systems may also inform the design of more intelligent robots. This unit explores some of the successes, challenges, and insights gained from efforts to build intelligent humanoid robots, self-driving vehicles, and robots that construct a model of the spatial structure of objects and surfaces in the environment through intelligent sensing and exploration.
 
@@ -53,44 +45,41 @@ Members of the iCub team, Carlo Ciliberto, Alessandro Roncone, Raffaello Camoria
 
 A panel of robotics experts led by Patrick Winston discuss topics such as general design principles that emerge from current work in robotics, the insights gained from building robots for the study of biological systems, and vice versa, and the role of DARPA grand challenges in advancing robotics research.
 
-Unit Activities
----------------
+## Unit Activities
 
 ### Useful Background
 
-*   Introduction to machine learning
+- Introduction to machine learning
 
 ### Videos and Slides
 
 {{< video-gallery "d0c148a6-bf68-05c7-c4be-4fbf44356bb5" >}}
 
-
-Further Study
--------------
+## Further Study
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-*   [John Leonard, Marine Robotics Group, MIT](http://marinerobotics.mit.edu/)
-*   [Giorgio Metta, Italian Institute of Technology](https://www.iit.it/people/giorgio-metta)
-*   [Tony Prescott, Sheffield Centre for Robotics, Sheffield University](https://www.sheffield.ac.uk/dcs/people/academic/tprescott)
-*   [Russ Tedrake, Robot Locomotion Group, MIT](https://groups.csail.mit.edu/locomotion/index.html)
-*   [Stefanie Tellex, Brown University](http://cs.brown.edu/~stefie10/)
-*   iCub Team: [Carlo Ciliberto](https://www.iit.it/people/carlo-ciliberto), [Alessandro Roncone](http://scazlab.yale.edu/people/alessandro-roncone), [Raffaello Camoriano](https://www.iit.it/people/raffaello-camoriano), [Giulia Pasquale](https://www.iit.it/people/giulia-pasquale)
+- [John Leonard, Marine Robotics Group, MIT](http://marinerobotics.mit.edu/)
+- [Giorgio Metta, Italian Institute of Technology](https://www.iit.it/people/giorgio-metta)
+- [Tony Prescott, Sheffield Centre for Robotics, Sheffield University](https://www.sheffield.ac.uk/dcs/people/academic/tprescott)
+- [Russ Tedrake, Robot Locomotion Group, MIT](https://groups.csail.mit.edu/locomotion/index.html)
+- [Stefanie Tellex, Brown University](http://cs.brown.edu/~stefie10/)
+- iCub Team: [Carlo Ciliberto](https://www.iit.it/people/carlo-ciliberto), [Alessandro Roncone](http://scazlab.yale.edu/people/alessandro-roncone), [Raffaello Camoriano](https://www.iit.it/people/raffaello-camoriano), [Giulia Pasquale](https://www.iit.it/people/giulia-pasquale)
 
 Learn more about the iCub project, including recent publications, at the [iCub humanoid robot project site](https://www.iit.it/research/lines/icub) within the website for the [Italian Institute of Technology](https://www.iit.it/).
 
-Fallon, M., S. Kuindersma, et al. ["An Architecture for Online Affordance-Based Perception and Whole-Body Planning." (PDF - 21.5MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Fallon14.pdf) _Journal of Field Robotics_ 32, no. 2 (2014): 229–54.
+Fallon, M., S. Kuindersma, et al. ["An Architecture for Online Affordance-Based Perception and Whole-Body Planning." (PDF - 21.5MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Fallon14.pdf) *Journal of Field Robotics* 32, no. 2 (2014): 229–54.
 
-Grant, R. A., A. L. Sperber, et al. "[The Role of Orienting in Vibrissal Touch Sensing](http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00039/full)." _Frontiers in Behavioral Neuroscience_ 6, no. 39 (2012): 1–12.
+Grant, R. A., A. L. Sperber, et al. "[The Role of Orienting in Vibrissal Touch Sensing](http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00039/full)." *Frontiers in Behavioral Neuroscience* 6, no. 39 (2012): 1–12.
 
-Kuindersma, S., R. Deits, et al. ["Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot." (PDF - 30.6MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Kuindersma14.pdf) _Autonomous Robots_ 40, no. 3 (2016): 429–55.
+Kuindersma, S., R. Deits, et al. ["Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot." (PDF - 30.6MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Kuindersma14.pdf) *Autonomous Robots* 40, no. 3 (2016): 429–55.
 
-Leonard, J. ["A Perception-Driven Autonomous Urban Vehicle." (PDF - 1.8MB)](http://people.csail.mit.edu/teller/pubs/LeonardEtAlJFR2008.pdf) _Journal of Field Robotics_ 25, no. 10 (2008): 724–74. (28 authors)
+Leonard, J. ["A Perception-Driven Autonomous Urban Vehicle." (PDF - 1.8MB)](http://people.csail.mit.edu/teller/pubs/LeonardEtAlJFR2008.pdf) *Journal of Field Robotics* 25, no. 10 (2008): 724–74. (28 authors)
 
-Oberlin, J., and S. Tellex. ["Autonomously Acquiring Instance-Based Object Models from Experience." (PDF - 1.2MB)](http://h2r.cs.brown.edu/wp-content/uploads/2015/08/oberlin15isrr.pdf) _International Symposium on Robotics Research_ (2015).
+Oberlin, J., and S. Tellex. ["Autonomously Acquiring Instance-Based Object Models from Experience." (PDF - 1.2MB)](http://h2r.cs.brown.edu/wp-content/uploads/2015/08/oberlin15isrr.pdf) *International Symposium on Robotics Research* (2015).
 
-Pearson, M. J., C. Fox, et al. ["Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot." (PDF - 2.0MB)](http://www.abrg.group.shef.ac.uk/!DATA/attachment/0267.tSLAM2_vs1.3-final-submission-to-ICRA.pdf) _Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe_ (2013): 586–92.
+Pearson, M. J., C. Fox, et al. ["Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot."](https://eprints.whiterose.ac.uk/108453/1/tSLAM2_vs1.1.pdf) (PDF - 2.0MB) *Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe* (2013): 586–92.
 
-Tellex, S., R. A. Knepper, et al. ["Asking for Help Using Inverse Semantics." (PDF - 2.6MB)](http://www.roboticsproceedings.org/rss10/p24.pdf) _Proceedings Robotics: Science and Systems_ (Berkeley, CA) (2014).
+Tellex, S., R. A. Knepper, et al. ["Asking for Help Using Inverse Semantics." (PDF - 2.6MB)](http://www.roboticsproceedings.org/rss10/p24.pdf) *Proceedings Robotics: Science and Systems* (Berkeley, CA) (2014).
 
-Whelan, T., M. Kaess, et al. "[Real-Time Large-Scale Dense RGB-D SLAM with Volumetric Fusion](http://dspace.mit.edu/handle/1721.1/97583)." _The International Journal of Robotics Research_ 34, no. 4–5 (2015): 598–626.
+Whelan, T., M. Kaess, et al. "[Real-Time Large-Scale Dense RGB-D SLAM with Volumetric Fusion](http://dspace.mit.edu/handle/1721.1/97583)." *The International Journal of Robotics Research* 34, no. 4–5 (2015): 598–626.
