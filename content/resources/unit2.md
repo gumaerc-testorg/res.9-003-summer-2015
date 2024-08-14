@@ -6,6 +6,7 @@ description: "Josh Tenenbaum and colleagues propose that our intuitions about pr
   \ that governs how objects behave in space and time. Aspects of these programs are\
   \ learned from infancy, as a child interacts with the world."
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/a3dd614457fbef82c3c8cc776d7db243_unit2.jpg
+file_size: 83474
 file_type: image/jpeg
 image_metadata:
   caption: "Josh Tenenbaum and colleagues propose that our intuitions about properties\

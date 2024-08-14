@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding iCub: An overview.'
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/3a6c121cd4b481dc8f7658405c1e89c6_MITRES_9_003SUM15_Lec8-6-3.pdf
+file_size: 1061352
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

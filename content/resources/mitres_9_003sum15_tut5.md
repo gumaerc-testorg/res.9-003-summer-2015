@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding church tutorial.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/112ab1d6d453148f28304f346b6fb7f4_MITRES_9_003SUM15_tut5.pdf
+file_size: 1387585
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

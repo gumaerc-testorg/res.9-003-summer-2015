@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Auditory perception in speech
   technology.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/95f8a9b8599f13e14474eb034e50cf3e_MITRES_9_003SUM15_Lec7-4.pdf
+file_size: 6735373
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

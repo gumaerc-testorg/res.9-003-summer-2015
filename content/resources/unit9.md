@@ -5,6 +5,7 @@ description: Tomaso Poggio and his colleagues have developed a model of the earl
   our ability to recognize object categories from visual input in a brief flash of
   less than 100 milliseconds.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/ea34d43d037fbd1bec4dc20f3e97567e_unit9.jpg
+file_size: 36639
 file_type: image/jpeg
 image_metadata:
   caption: Tomaso Poggio and his colleagues have developed a model of the early processing

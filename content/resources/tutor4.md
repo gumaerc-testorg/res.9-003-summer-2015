@@ -7,6 +7,7 @@ description: In experiments by Zhang et al. (2011), monkeys viewed images depict
   a confusion matrix that captures how well the class predicted by the decoding model
   matches the true object class that was viewed.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/930de496ac6e66299da39f86ce7dde29_tutor4.jpg
+file_size: 43119
 file_type: image/jpeg
 image_metadata:
   caption: In experiments by Zhang et al. (2011), monkeys viewed images depicting
