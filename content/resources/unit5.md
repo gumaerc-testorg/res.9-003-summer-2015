@@ -5,6 +5,7 @@ description: How do we recognize physical events in a dynamic visual scene? Andr
   "The person to the right of the bin picked up the backpack" from a video clip portraying
   this action.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/f1377cdecb2e42cb7c11568e6a9c2eb6_unit5.jpg
+file_size: 99012
 file_type: image/jpeg
 image_metadata:
   caption: How do we recognize physical events in a dynamic visual scene? Andrei Barbu

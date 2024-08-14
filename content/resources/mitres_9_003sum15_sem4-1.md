@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Probing sensory representations
   with metameric stimuli.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/74750eb17b612c779697f2a5a1b5e965_MITRES_9_003SUM15_sem4-1.pdf
+file_size: 9125734
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

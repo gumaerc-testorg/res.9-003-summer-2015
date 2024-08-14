@@ -5,6 +5,7 @@ description: "The two-streams hypothesis distinguishes two processing pathways i
   \ in purple and the dorsal stream (also known as the \u201Cwhere\u201D pathway\u201D\
   ) shown in green."
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/7d776beca5cd978cd8d5d36f13eb9597_tutor1.jpg
+file_size: 67316
 file_type: image/jpeg
 image_metadata:
   caption: "The two-streams hypothesis distinguishes two processing pathways in the\
