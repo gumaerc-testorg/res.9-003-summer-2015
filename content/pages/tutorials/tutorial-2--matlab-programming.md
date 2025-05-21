@@ -83,13 +83,13 @@ Gilat, A. *MATLAB: An Introduction with Applications, Fifth Edition*. Wiley, 201
 
 Goldman, M. *Tutorials in Computational Neuroscience*.
 
-Gore, J., P. Blainey, E. S. Lander, E. Fraenkel, M. E. Wiltrout, N. Schafheimer. [*Quantitative Biology Workshop*](https://www.edx.org/course/quantitative-biology-workshop-mitx-7-qbwx-3). Self-paced online course from MITx on edX.
+Gore, J., P. Blainey, E. S. Lander, E. Fraenkel, M. E. Wiltrout, N. Schafheimer. [*Quantitative Biology Workshop*](https://mitxonline.mit.edu/courses/course-v1:MITxT+7.QBWx/). Self-paced online course from MITx on edX.
 
 Hanselman, D. C., and B. L. Littlefield. *Mastering MATLAB*. Pearson, 2012. ISBN: 9780136013303.
 
 Mathworks, Inc. [MATLAB tutorials, including MATLAB Onramp](http://www.mathworks.com/academia/student_center/tutorials/mltutorial_launchpad.html), and [MATLAB documentation](http://www.mathworks.com/help/matlab/), including a [MATLAB Primer (PDF - 2.4MB)](http://web.mit.edu/6.777/www/downloads/primer.pdf).
 
-Šćepanović, Danilo. [*6.094 Introduction to MATLAB*](/courses/6-057-introduction-to-matlab-january-iap-2019), January 2010. MIT OpenCourseWare.
+Šćepanović, Danilo. [*6.094 Introduction to MATLAB*](https://ocw-studio.odl.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019), January 2010. MIT OpenCourseWare.
 
 Science Education Resource Center, Carleton College. [*Teaching Computation in the Sciences*](https://serc.carleton.edu/teaching_computation/index.html).
 
