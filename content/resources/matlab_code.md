@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related code + data files for these tutorial examples.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/52492f210c069355cb77f6deb63fd26c_MATLAB_code.zip
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/52492f210c069355cb77f6deb63fd26c_MATLAB_code.zip
 file_size: 13256
 file_type: application/zip
 learning_resource_types: []

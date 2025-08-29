@@ -3,7 +3,7 @@ content_type: resource
 description: 'Legend: The Center for Brains, Minds, and Machines is dedicated to the
   study of intelligence - how the brain produces intelligent behavior and how this
   can be replicated in machines.'
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/e66844720ae1839803675ee0ae8061af_intro.jpg
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/e66844720ae1839803675ee0ae8061af_intro.jpg
 file_size: 67488
 file_type: image/jpeg
 image_metadata:

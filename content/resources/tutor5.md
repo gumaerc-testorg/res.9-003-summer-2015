@@ -5,7 +5,7 @@ description: "Josh Tenenbaum and colleagues propose that our intuitions about pr
   \ that can simulate, with some uncertainty, the physics that governs how objects\
   \ behave in space and time. Such programs can be implemented and tested using probabilistic\
   \ programming languages such as the Church language."
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/20b84384fbe1fff37d7e31991157e720_tutor5.jpg
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/20b84384fbe1fff37d7e31991157e720_tutor5.jpg
 file_size: 83474
 file_type: image/jpeg
 image_metadata:
