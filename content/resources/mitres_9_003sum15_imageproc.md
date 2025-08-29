@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding spatial processing in the visual
   pathway.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/2dc82de97261a579c89b1c4cebf23856_MITRES_9_003SUM15_imageproc.pdf
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/2dc82de97261a579c89b1c4cebf23856_MITRES_9_003SUM15_imageproc.pdf
 file_size: 544228
 file_type: application/pdf
 learning_resource_types: []

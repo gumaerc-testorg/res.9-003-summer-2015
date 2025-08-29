@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding brains, minds and machines
   summer course:Lec1-5.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/948e9f737f7d1cbaeee03728f90528f5_MITRES_9_003SUM15_lec1-5.pdf
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/948e9f737f7d1cbaeee03728f90528f5_MITRES_9_003SUM15_lec1-5.pdf
 file_size: 6000602
 file_type: application/pdf
 learning_resource_types: []

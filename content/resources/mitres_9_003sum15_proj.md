@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Project Ideas document.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/fb4bdf4a945cb4f15150e89d1d376049_MITRES_9_003SUM15_proj.pdf
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/fb4bdf4a945cb4f15150e89d1d376049_MITRES_9_003SUM15_proj.pdf
 file_size: 397982
 file_type: application/pdf
 learning_resource_types:

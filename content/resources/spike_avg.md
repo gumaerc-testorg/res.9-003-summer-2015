@@ -2,7 +2,7 @@
 content_type: resource
 description: "\r\nThis is a special file related spike-triggered averaging of neural\
   \ responses: Handout and data."
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/cb79871ee4f14cd85caa452f4a859f05_spike_avg.zip
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/cb79871ee4f14cd85caa452f4a859f05_spike_avg.zip
 file_size: 2196430
 file_type: application/zip
 learning_resource_types: []
