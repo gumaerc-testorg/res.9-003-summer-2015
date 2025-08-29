@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Human-robot collaboration.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d3fda03cdb21b35aba5833370e1ca06e_MITRES_9_003SUM15_Lec8-4.pdf
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d3fda03cdb21b35aba5833370e1ca06e_MITRES_9_003SUM15_Lec8-4.pdf
 file_size: 4380815
 file_type: application/pdf
 learning_resource_types: []

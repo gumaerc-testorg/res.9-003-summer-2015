@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/8633c38f09c414d3a1fcaa557256408f_HCBaApqRqSg.srt
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/8633c38f09c414d3a1fcaa557256408f_HCBaApqRqSg.srt
 file_size: 125380
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding vision and language.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/54095e163a84d43f86d6b3299931b40f_MITRES_9_003SUM15_Lec5-1.pdf
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/54095e163a84d43f86d6b3299931b40f_MITRES_9_003SUM15_Lec5-1.pdf
 file_size: 2623549
 file_type: application/pdf
 learning_resource_types: []

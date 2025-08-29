@@ -3,7 +3,7 @@ content_type: resource
 description: Amazon Mechanical Turk is an online crowdsourcing platform that enables
   researchers to conduct large-scale experiments on the Internet. Many experiments
   described in this course were conducted on MTurk.
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/2f896fc95689288ceb18e22964408dd4_tutor6.jpg
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/2f896fc95689288ceb18e22964408dd4_tutor6.jpg
 file_size: 36832
 file_type: image/jpeg
 image_metadata:

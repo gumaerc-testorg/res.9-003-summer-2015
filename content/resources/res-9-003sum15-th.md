@@ -10,7 +10,7 @@ description: Some intelligent behaviors emerge from activity in brain regions sp
   courtesy of Prof. Nancy Kanwisher. Neural circuit model courtesy of Prof. Tomaso
   Poggio. iCub photo (c) RobotCub Consortium, license GPL v2.0; this content is excluded
   from our Creative Commons license. For more information, see http://ocw.mit.edu/help/faq-fair-use/
-file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/02c7850b19dbe02dbd2fd19454c023ad_res-9-003sum15-th.jpg
+file: /ol-ocw-studio-app/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/02c7850b19dbe02dbd2fd19454c023ad_res-9-003sum15-th.jpg
 file_size: 9500
 file_type: image/jpeg
 image_metadata:
