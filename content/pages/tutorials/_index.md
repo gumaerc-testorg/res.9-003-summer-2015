@@ -22,4 +22,4 @@ The tutorial topics are:
 5.  {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "Church Programming" %}}
 6.  {{% resource_link 7e2b7b55-eaa4-6494-579e-611d46d28b3a "Amazon Mechanical Turk" %}}
 
-Materials for additional tutorials can be found at the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) website.
+Materials for additional tutorials can be found at the {{% resource_link "23fd337c-73d0-42dd-945a-cbc24586d03c" "Brains, Minds and Machines Summer Course" %}} website.
