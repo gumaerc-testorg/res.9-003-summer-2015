@@ -53,15 +53,15 @@ Unit Activities
 
 ### Machine Learning Lab Exercises
 
-This [website for the Machine Learning Day](https://cbmm.mit.edu/machine-learning-day) was prepared by Lorenzo Rosasco and Georgios Evangelopoulos for the 2016 Brains, Minds, and Machines summer course. It contains descriptions of lab activities related to the machine learning methods presented in the above tutorial videos, with supporting MATLAB code and data files that can be downloaded from the website.
+This {{% resource_link "9262adb6-037e-487c-9ded-629814473cf0" "website for the Machine Learning Day" %}} was prepared by Lorenzo Rosasco and Georgios Evangelopoulos for the 2016 Brains, Minds, and Machines summer course. It contains descriptions of lab activities related to the machine learning methods presented in the above tutorial videos, with supporting MATLAB code and data files that can be downloaded from the website.
 
 Further Study
 -------------
 
-This tutorial is based in part on the MIT course [_9.520 Statistical Learning Theory and Applications_](http://www.mit.edu/~9.520/fall16/). Materials from the MIT course [_6.867 Machine Learning_](/courses/6-867-machine-learning-fall-2006), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through [edX](https://www.edx.org/) (search for "machine learning").
+This tutorial is based in part on the MIT course {{% resource_link "c267764e-20ea-4106-ad4b-fca8cb9019d9" "_9.520 Statistical Learning Theory and Applications_" %}}. Materials from the MIT course [_6.867 Machine Learning_](/courses/6-867-machine-learning-fall-2006), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through {{% resource_link "e406243f-ef02-4559-bf02-b18246dce652" "edX" %}} (search for "machine learning").
 
-Bishop, C. M. [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Springer, 2007. ISBN: 9780387310732.
+Bishop, C. M. {{% resource_link "5696eebf-9c9c-4fde-9ec7-7c63b3633523" "_Pattern Recognition and Machine Learning_" %}}. Springer, 2007. ISBN: 9780387310732.
 
-Rosasco, L. ["Introductory Machine Learning Notes." (PDF)](http://lcsl.mit.edu/courses/cbmmss/machine_learning/notes/MLNotes_Oct16.pdf) (2016).
+Rosasco, L. {{% resource_link "61e8a530-9567-41db-99ea-05696d17e900" "\"Introductory Machine Learning Notes.\" (PDF)" %}} (2016).
 
-Hastle, T., R. Tibshirani, and J. Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (Springer Series in Statistics)_. Springer, 2009. ISBN: 9780387848570. \[Preview with [Google Books](http://books.google.com/books?id=tVIjmNS3Ob8C&pg=PAfrontcover)\]
+Hastle, T., R. Tibshirani, and J. Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (Springer Series in Statistics)_. Springer, 2009. ISBN: 9780387848570. \[Preview with {{% resource_link "bcb944b9-bb80-4fcf-8ec6-d9d516e30858" "Google Books" %}}\]

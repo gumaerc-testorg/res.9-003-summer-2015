@@ -51,18 +51,18 @@ Part 3 illustrates the idea of model building through the creation of probabilis
 
 Additional information about the speaker's research and publications can be found at his website:
 
-- [Josh Tenenbaum, Computational Cognitive Science Group, MIT](http://cocosci.mit.edu/)
+- {{% resource_link "ec13e7a2-36cd-4676-aa74-9dbae372cae3" "Josh Tenenbaum, Computational Cognitive Science Group, MIT" %}}
 
 See the {{% resource_link "32907aca-b7d5-1972-49b3-b36fb769ce08" "tutorial by Tomer Ulman" %}} on the implementation of probabilistic models using the Church programming language.
 
-Baker, C. L., R. Saxe, et al. ["Action Understanding as Inverse Planning." (PDF)](https://pdfs.semanticscholar.org/a4f1/eed4b436840dad9b98a4415cab61ec75dd61.pdf) *Cognition* 113 (2009): 329–49.
+Baker, C. L., R. Saxe, et al. {{% resource_link "efe5c733-cd5f-4f95-bf92-d46b0d6877e1" "\"Action Understanding as Inverse Planning.\" (PDF)" %}} *Cognition* 113 (2009): 329–49.
 
-Battaglia, P. W., J. B. Hamrick, et al. ["Simulation as an Engine of Physical Scene Understanding." (PDF - 2.0MB)](http://www.pnas.org/content/pnas/110/45/18327.full.pdf) *Proceedings of the National Academy of Sciences* 110, no. 45 (2013): 18327–32.
+Battaglia, P. W., J. B. Hamrick, et al. {{% resource_link "99ceafca-db77-4007-837e-100658c0dc7d" "\"Simulation as an Engine of Physical Scene Understanding.\" (PDF - 2.0MB)" %}} *Proceedings of the National Academy of Sciences* 110, no. 45 (2013): 18327–32.
 
-Goodman, N. D., and J. B. Tenenbaum (e-book). [Probabilistic Models of Cognition](http://probmods.org/).
+Goodman, N. D., and J. B. Tenenbaum (e-book). {{% resource_link "e5953025-3d3c-4962-b263-c7100fe5f3c3" "Probabilistic Models of Cognition" %}}.
 
-Kulkarni, T., P. Kohli, et al. ["Picture: An Imperative Probabilistic Programming Language for Scene Perception." (PDF - 2.4MB)](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf) *Proceedings IEEE Conference Computer Vision and Pattern Recognition* (2015): 4390–99.
+Kulkarni, T., P. Kohli, et al. {{% resource_link "79d6ed8f-f6fa-4b8b-bf0c-cf2564efcc78" "\"Picture: An Imperative Probabilistic Programming Language for Scene Perception.\" (PDF - 2.4MB)" %}} *Proceedings IEEE Conference Computer Vision and Pattern Recognition* (2015): 4390–99.
 
-Perfors, A., J. B. Tenenbaum, et al. "[A Tutorial Introduction to Bayesian Models of Cognitive Development." (PDF)](https://cocosci.princeton.edu/tom/papers/LabPublications/BayesCogDev.pdf) *Cognition* 120 (2011): 302–21.
+Perfors, A., J. B. Tenenbaum, et al. "{{% resource_link "458f3920-e37e-494e-aa52-e01d7addc766" "A Tutorial Introduction to Bayesian Models of Cognitive Development.\" (PDF)" %}} *Cognition* 120 (2011): 302–21.
 
-Tenenbaum, J. B., C. Kemp, et al. ["How to Grow a Mind: Statistics, Structure, and Abstraction." (PDF)](https://cocosci.princeton.edu/tom/papers/LabPublications/GrowMind.pdf) *Science* 331 (2011): 1279–85.
+Tenenbaum, J. B., C. Kemp, et al. {{% resource_link "4a04015e-b35f-4882-ab1b-b8163640b081" "\"How to Grow a Mind: Statistics, Structure, and Abstraction.\" (PDF)" %}} *Science* 331 (2011): 1279–85.

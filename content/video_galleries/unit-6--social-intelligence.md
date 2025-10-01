@@ -63,20 +63,20 @@ Further Study
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-*   [Nancy Kanwisher, MIT](http://web.mit.edu/bcs/nklab/)
-*   [Ken Nakayama, Vision Sciences Lab, Harvard](http://visionlab.harvard.edu/members/ken/nakayama.html)
-*   [Rebecca Saxe, MIT](http://saxelab.mit.edu/)
+*   {{% resource_link "9391fedb-ecfe-4d40-aa6e-8887c617120a" "Nancy Kanwisher, MIT" %}}
+*   {{% resource_link "e85524ad-b966-4dce-b07b-9bc7f079704a" "Ken Nakayama, Vision Sciences Lab, Harvard" %}}
+*   {{% resource_link "fc58d641-270b-4612-b4f6-11db8932b694" "Rebecca Saxe, MIT" %}}
 
-Deen, B., K. Koldewyn, et al. "[Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus](https://doi.org/10.1093/cercor/bhv111)." _Cerebral Cortex_ 25, no. 11 (2015): 4596–4609.
+Deen, B., K. Koldewyn, et al. "{{% resource_link "34522f3a-80b5-4d77-b2a5-33447801e5e9" "Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus" %}}." _Cerebral Cortex_ 25, no. 11 (2015): 4596–4609.
 
-Duchaine, B., and K. Nakayama. "[The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants](https://www.researchgate.net/profile/Ken_Nakayama/publication/7593331_The_Cambridge_Face_Memory_Test_results_for_neurologically_intact_individuals_and_an_investigation_of_its_validity_using_inverted_face_stimuli_and_prosopagnosic_participants/)." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
+Duchaine, B., and K. Nakayama. "{{% resource_link "e9144738-4eb9-4bc7-9c56-7e69871f9e81" "The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants" %}}." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
 
-Koster-Hale, J., and R. Saxe. ["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
+Koster-Hale, J., and R. Saxe. {{% resource_link "08425ebe-0ebe-410f-9cba-89e0e1061292" "\"Theory of Mind: A Neural Prediction Problem.\" (PDF)" %}} _Neuron 79_ (2013): 836–48.
 
-Koster-Hale, J., M. Bedny, et al. ["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
+Koster-Hale, J., M. Bedny, et al. {{% resource_link "dc70e2fd-1a7e-4c83-aaae-c8f1923653a8" "\"Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults.\" (PDF - 1.2MB)" %}} _Cognition_ 133 (2014): 65–78.
 
-Peterson, M. F., J. Lin, et al. ["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
+Peterson, M. F., J. Lin, et al. {{% resource_link "228e5781-1275-402e-b6e9-01a652abfe8f" "\"Individual Differences in Face Looking Behavior Generalize from the Lab to the World.\" (PDF - 62.7MB)" %}} _Journal of Vision_ 16, no. 7 (2016): 1–18.
 
-Skerry, A. E., and R. Saxe. ["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
+Skerry, A. E., and R. Saxe. {{% resource_link "feee2498-82d4-4478-9c8d-7c18050b41d9" "\"Neural Representations of Emotion are Organized Around Abstract Event Features.\" (PDF - 2.1MB)" %}} _Current Biology_ 15 (2015): 1–10.
 
-Vaziri-Pashkam, M., S. Cormiea, et al. ["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).
+Vaziri-Pashkam, M., S. Cormiea, et al. {{% resource_link "7929f4e2-b00f-4e0c-91cd-8c7da92691a2" "\"Predicting Actions Before They Occur.\" (PDF - 1.4MB)" %}} _Center for Brains, Minds & Machines_, Memo No. 038 (2015).

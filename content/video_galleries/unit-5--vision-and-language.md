@@ -54,27 +54,27 @@ Guest speaker Tom Mitchell shows how the neural representations of language mean
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-- [Boris Katz, MIT](http://people.csail.mit.edu/boris/boris.html)
-- [Andrei Barbu, MIT](http://0xab.com/)
-- [Patrick Winston, MIT](http://people.csail.mit.edu/phw/index.html)
-- [Tom Mitchell, CMU](http://www.cs.cmu.edu/~tom/)
+- {{% resource_link "47057ca7-b473-4cbe-9211-d5a214beadbe" "Boris Katz, MIT" %}}
+- {{% resource_link "8625d6a0-2742-433a-9d43-6a769eefce69" "Andrei Barbu, MIT" %}}
+- {{% resource_link "7ce5eb6c-9c80-40a6-a46d-a5d31e731d9f" "Patrick Winston, MIT" %}}
+- {{% resource_link "ea42ae60-4f13-44ef-88f1-e012024dea9e" "Tom Mitchell, CMU" %}}
 
-Berzak, Y., A. Barbu, et al. ["Do You See What I Mean? Visual Resolution of Linguistic Ambiguities." (PDF - 2.4MB)](http://start.csail.mit.edu/publications/EMNLP172.pdf) *Proceedings of the 2015 Conference on Empirical Methods on Natural Language Processing* (2015): 1477–87.
+Berzak, Y., A. Barbu, et al. {{% resource_link "5481141c-7b9d-4e1b-a609-9f5f61666cdd" "\"Do You See What I Mean? Visual Resolution of Linguistic Ambiguities.\" (PDF - 2.4MB)" %}} *Proceedings of the 2015 Conference on Empirical Methods on Natural Language Processing* (2015): 1477–87.
 
-Huth, A. G., S. Nishimoto, et al. "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories Across the Human Brain](http://dx.doi.org/10.1016/j.neuron.2012.10.014)." *Neuron* 76, no. 6 (2012): 1210–24.
+Huth, A. G., S. Nishimoto, et al. "{{% resource_link "cf014dc0-e41b-4b21-a6c0-a1060a68d65c" "A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories Across the Human Brain" %}}." *Neuron* 76, no. 6 (2012): 1210–24.
 
-Katz, B. "[START Natural Language Question Answering System](http://start.csail.mit.edu/index.php). " (online resource)
+Katz, B. "{{% resource_link "450a0b1c-1801-45e4-8b26-e142343e0f3d" "START Natural Language Question Answering System" %}}. " (online resource)
 
-Mitchell, T., S. V. Shinkareva, et al. ["Predicting Human Brain Activity Associated with the Meanings of Nouns." (PDF)](http://www.cs.cmu.edu/~tom/pubs/science2008.pdf) *Science* 320 (2008): 1191–95.
+Mitchell, T., S. V. Shinkareva, et al. {{% resource_link "c39c52de-febf-4b16-8c07-60d3c0779942" "\"Predicting Human Brain Activity Associated with the Meanings of Nouns.\" (PDF)" %}} *Science* 320 (2008): 1191–95.
 
-Siddharth, N., A. Barbu, et al. ["Seeing What You're Told: Sentence-Guided Activity Recognition in Video." (PDF)](http://0xab.com/papers/cvpr2014.pdf) *IEEE Conference on Computer Vision and Pattern Recognition* (2014).
+Siddharth, N., A. Barbu, et al. {{% resource_link "150c8eae-1fe0-4ac0-ba1f-9081a05b9ef7" "\"Seeing What You're Told: Sentence-Guided Activity Recognition in Video.\" (PDF)" %}} *IEEE Conference on Computer Vision and Pattern Recognition* (2014).
 
-Sudre, G., D. Pomerleau, et al. ["Tracking Neural Coding of Perceptual and Semantic Features of Concrete Nouns." (PDF - 1.3MB)](http://www.cs.cmu.edu/~tom/pubs/sudre_2012.pdf) *NeuroImage* 62 (2012): 451–63.
+Sudre, G., D. Pomerleau, et al. {{% resource_link "3a27b6b8-2951-4d6d-aa52-1bbc19a713b9" "\"Tracking Neural Coding of Perceptual and Semantic Features of Concrete Nouns.\" (PDF - 1.3MB)" %}} *NeuroImage* 62 (2012): 451–63.
 
-Wehbe, L., B. Murphy, et al. ["Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses." (PDF - 1.1MB)](http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0112575.PDF) *PLOS One* (2014): 1–19.
+Wehbe, L., B. Murphy, et al. {{% resource_link "70ec70c8-edc6-4538-bdd9-8e6f9c4dedec" "\"Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses.\" (PDF - 1.1MB)" %}} *PLOS One* (2014): 1–19.
 
-Winston, P. H. ["The Genesis Story Understanding and Story Telling System: A 21st Century Step toward Artificial Intelligence." (PDF)](http://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-019_StoryWhitePaper.pdf) *Center for Barins, Minds & Machines,* Memo no. 019 (2014).
+Winston, P. H. {{% resource_link "1131e64d-f030-4d30-b217-a8c19135ae09" "\"The Genesis Story Understanding and Story Telling System: A 21st Century Step toward Artificial Intelligence.\" (PDF)" %}} *Center for Barins, Minds & Machines,* Memo no. 019 (2014).
 
-———. "[The Right Way.](http://dspace.mit.edu/handle/1721.1/72174)" *Advances in Cognitive Systems* 1 (2012): 23–36.
+———. "{{% resource_link "d19d841f-7f45-4c3f-81d6-782117f7da00" "The Right Way." %}}" *Advances in Cognitive Systems* 1 (2012): 23–36.
 
-Yu, H., N. Siddharth, et al. ["A Compositional Framework for Grounded Language Inference, Generation, and Acquisition in Video."](https://www.jair.org/index.php/jair/article/view/10938/26065)  *Journal of Artificial Intelligence Research* 52 (2015): 601–713.
+Yu, H., N. Siddharth, et al. {{% resource_link "b5bbd942-54bf-47b7-9965-b8795ea61241" "\"A Compositional Framework for Grounded Language Inference, Generation, and Acquisition in Video.\"" %}}  *Journal of Artificial Intelligence Research* 52 (2015): 601–713.
